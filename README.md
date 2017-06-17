@@ -1,8 +1,8 @@
-Installation and documentation
-##############################
+# Installation et documentation
 
-Installation
-============
+
+## Installation
+
 
 Pour télécharge le cahier::
 
@@ -11,16 +11,20 @@ Pour télécharge le cahier::
 
 
 
-Requirements
-============
+## Requirements
+
 
 Voir requirements.txt ::
   pip install -r requirements.txt
 
-Construire le cahier 10:
-==========================
+## Construire le cahier 10
 
-  make html
-
+``
+   make html
+``  
+ou  
+``
+ make latexpdf
+``
 
 Le site est dans le dossier ``./_build/html``.
