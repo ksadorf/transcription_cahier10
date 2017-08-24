@@ -1,26 +1,20 @@
 .. _basics:
 
-Installation and documentation
-##############################
-
-Installation
-============
-
-Pour télécharge le cahier::
-
-  git clone git@github.com:ksadorf/transcription_cahier10.git
-  pip install ./liblinkstream
+Annexe
+#######
 
 
-
-Requirements
-============
+Pré-requis
+----------
 
 Voir requirements.txt ::
-  pip install -r requirements.txt
 
-Construire le cahier 10:
-==========================
+   pip install -r requirements.txt
+
+Construire le cahier n°10
+---------------------------
+
+Une fois toute les dépendences installées, il suffit de faire ::
 
   make html
 

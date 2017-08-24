@@ -38,7 +38,7 @@ autosummary_generate = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
-# 
+#
 # source_parsers = {
 #     '.md': CommonMarkParser,
 # }
@@ -238,7 +238,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'cahier_10.tex', u'Cahier 10',
-     u'Gaumont Noé', 'manual'),
+     u'Maurice', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
