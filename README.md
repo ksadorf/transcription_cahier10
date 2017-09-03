@@ -4,7 +4,7 @@
 ## Installation
 
 
-Pour télécharge le cahier: 
+Pour télécharge le cahier:
 
 ```
   git clone git@github.com:ksadorf/transcription_cahier10.git  
@@ -27,6 +27,25 @@ Voir requirements.txt :
 ```
   pip install -r requirements.txt
 ```
+
+## Aide sur la syntaxe result
+
+Vous pouvez aller sur la documentaion de [sphinx](http://www.sphinx-doc.org/en/stable/rest.html).
+
+### Ordre de section utilisé
+
+rst n'impose auncun ordre et déduit le niveau (section, paragraphe, etc..) en fonction du premier signe rencontré.
+L'ordre dans ce document est le suivant:  
+
+   1. #
+   2. -
+   3. ~
+   4. +
+   5. "
+
+Il est possible d'en utiliser d'[autre](http://www.sphinx-doc.org/en/stable/rest.html#sections).
+Pour avoir le formatage d'un titre sans rajouter d'entré dans l'index, il faut
+utiliser ``.. rubric:: Titre de section``.
 
 ## Construire le cahier 10
 

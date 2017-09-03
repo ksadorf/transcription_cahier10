@@ -9,4 +9,3 @@ Cahier n° 10
 
    Presentation
    Methodologie
-   basics
