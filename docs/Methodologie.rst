@@ -477,6 +477,7 @@ réglementé la puissance des frappes qui était sa raison
 d’être, est finalement une aubaine ouvrant un champ tactique
 immense.
 
+.. _Paramètres_techniques_de_l_armé_communs_à_tous_les_coups:
 
 Paramètres techniques de l’armé communs à tous les coups
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -546,15 +547,43 @@ d’être transversal dans la projection du bras vers la cible.
 Paramètres techniques de l’armé particuliers aux coups horizontaux intérieurs et extérieurs : le Latéral croisé et le Latéral extérieur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+  1. Dans le temps des mouvements amorcés ci-dessus (voir :ref:`paramètres techniques de l’armé communs à tous les coups <Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`), la main munie de l’arme s’engage du côté de l’armé choisi, à la hauteur de la tempe, puis le bras armé est positionné derrière l’axe vertébral (angle d’environ 90° formé par le bras et l’avant-bras, bras à l’horizontale). Cet angle de 90° est optimal pour obtenir la meilleure vitesse de transmission du mouvement. En effet, un bras trop tendu augmente le levier et sature l’effort au développement de la frappe ; un bras trop fermé réduit le levier et raccourcit la course d’élan de l’ensemble propulsé (bras, canne).
+  2.  Ce mouvement d’armé s’achève lorsque la canne est positionnée, proche de l’axe vertébral, la pointe dirigée vers l’adversaire (buste de profil) afin de préparer la canne à une circumduction complète qui correspond à sa course d’élan optimale. Dans cette position d’armé, le tireur place la partie supérieure de sa canne (vers la pointe) contre le haut de sa tempe. Une position trop basse (au niveau du cou) gênerait le passage de l’arme dans sa circumduction. Une position trop haute (au dessus de la tête) transformerait le coup en un mouvement circulaire ininterrompu empêchant la fixation de l’armé et le bénéfice du mouvement de piston plus direct et plus rapide.
 
+**Observations :** on considère donc que l’armé du Latéral croisé et du Latéral extérieur est fixe. Ce qui autorise le tireur à marquer un arrêt en position d’armé. 
+
+  3. Pour l’armé du Latéral croisé, la main armée est en position latérale (paume dirigée vers l’intérieur de la garde, vers l’axe vertébral).
+  4. Pour l’armé du Latéral extérieur, la main armée est positionnée en pronation, voire légèrement latéralisée (paume dirigée vers l’extérieur de la garde, à l’opposé de l’axe vertébral).
+  5. Desserrer légèrement l’étreinte de la main du côté auriculaire, seulement dans la position de l’armé du Latéral croisé, afin que l’arme conserve son assiette.
 
 Paramètres techniques de l’armé particuliers aux coups verticaux extérieurs moulinés : le Brisé et l’ Enlevé
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+  1. Dans le temps des mouvements amorcés ci-dessus (voir :ref:`paramètres techniques de l’armé communs à tous les coups <Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`), la main munie de l’arme est amenée à l’épaule (contre le deltoïde antérieur). Dans son mouvement de piston, la main armée semble observer une phase de fixation lorsqu’elle est en position de recul maximum. Cependant, le pivotement de la main et la circumduction de la canne (moulinet : rotation verticale et complète de l’arme autour du poignet) sont ininterrompus.
+
+**Observations :** on considère donc que l’armé du Brisé et de l’Enlevé est semi-fixe. Ce qui n’autorise pas le tireur à marquer un arrêt en position d’armé.
+
+Cette position d’armé semi-fixe correspond au moment où la main armée finit son recul derrière l’axe vertébral avant d’entamer son retour vers la cible. A ce moment là, l’orientation de la canne n’est pas imposée, elle est positionnée selon la progression du moulinet. Les hanches et les épaules s’alignent dans l’axe de combat (de profil) afin de tirer la main armée derrière l’axe vertébral.
+
+  2. L’autre méthode qui consiste à armer le Brisé et l’Enlevé à la hauteur de la hanche, est tolérée. Toutefois, l’armé à l’épaule de ces deux mouvements est celui qu’il convient d’adopter pour les raisons suivantes :
+  
+      * Concernant le Brisé, les phases d’armé et de retour vers la cible décrivent le va-et-vient du mouvement de piston. Le Brisé a donc un effet coup de poing direct qu’il est plus efficace de faire partir de l’épaule. La distance qui va de l’armé épaule à la cible (dessus de la tête) est la plus courte. En outre, le Brisé armé à la hanche, arrive souvent sabré (angle formé entre la canne et le bras, au moment de la frappe, lorsque la main a de l’avance sur la pointe de la canne, ce que sanctionne le règlement d’arbitrage).
+      * Concernant l’Enlevé, les phases d’armé et de retour vers la cible décrivent le va-et-vient elliptique du mouvement de bielle-piston. Pour l’Enlevé, l’armé à la hanche offre une trajectoire de frappe plus directe (la cible étant en ligne basse). Cependant, il rapproche le mouvement du sol lors du retour de l’arme vers la cible, obligeant le tireur à se fendre après l’impact, ce que sanctionne le règlement d’arbitrage qui stipule que les coups en ligne basse doivent être accompagnés d’une fente, la fente devant être achevée au moment de l’impact en jambe et non après. En outre, tactiquement, l’armé épaule identique pour le Brisé et l’Enlevé permet une feinte en offrant la possibilité d’ intervertir ces deux coups au moment de leur retour vers la cible, ou de transformer l’armé épaule du Brisé ou de l’Enlevé en armé de Latéral extérieur.
+
 Paramètres techniques de l’armé particuliers aux coups verticaux croisés intérieurs : le Croisé-tête et le Croisé-bas
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+  1. Dans le temps des mouvements amorcés ci-dessus (voir :ref:`paramètres techniques de l’armé communs à tous les coups <Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`), pour le Croisé-tête : la main munie de l’arme descend du côté croisé (intérieur en Canne de Combat : côté gauche pour un droitier) au niveau de la hanche opposée dans un mouvement elliptique vertical remontant ; pour le Croisé-bas : la main munie de l’arme monte du côté croisé (intérieur en Canne de Combat : côté gauche pour un droitier) au niveau du dessus de la tête dans un mouvement elliptique vertical descendant. Ces phases d’armé s’inscrivent, sans discontinuité, dans une ellipse verticale qui s’achève, pour le Croisé-tête, par une frappe en ligne haute (dessus de la tête), et pour le Croisé-bas, par une frappe latéralisée en ligne basse, (jambe) accompagnée d’une fente (voir :ref:`la fente <La_fente>`).
 
+**Observations :** on considère donc que l’armé du Croisé-tête et du Croisé-bas est non- fixe. Ce qui n’autorise pas le tireur à marquer un arrêt en position d’armé, sauf dans le cas de l’armé fixe du Croisé-tête (voir le point 3).
+Cette position d’armé non-fixe correspond au moment où l’arme est sur la tangente postérieure de l’ellipse, lorsque la main armée finit son recul derrière l’axe vertébral avant d’entamer son retour vers la cible.
+
+  2. La canne se positionne de façon naturelle dans la circumduction verticale, proche de l’axe verébral. La main munie de l’arme se dirige, dans un premier temps, vers le bas pour le Croisé-tête et vers le haut pour le Croisé-bas. Au départ du coup, sous l’effet de la prise de vitesse de la main, la pointe de la canne a un temps de retard. Ce retard, libérant la main d’une partie du poids de l’arme, favorise l’accélération du mouvement. Ce retard doit être rattrapé au moment de l’impact.
+  3. Le Croisé-tête part souvent d’une position de parade basse comme d’un armé fixe. Pour obtenir cette position particulière de l’armé fixe du Croisé-tête, la canne (pointe en bas) est positionnée en parade croisée, légèrement obliquée vers l’avant, main tournée, paume vers l’adversaire. Le bras armé est collé au corps afin de profiter au mieux de la synergie des hanches.
+
+**Conclusion :** l’armé est donc une position transitoire, de passage (préparation du coup) dont les applications techniques et tactiques résultent de sa parfaite mise en œuvre et conditionnent la bonne exécution de la phase finale du coup.
+
+.. _La_fente:
 
 La fente
 ~~~~~~~~~
