@@ -332,6 +332,7 @@ rend difficile l’exécution des coups croisés (Latéral croisé, Croisé-têt
 Croisé-bas) et n’est donc pas le point de départ le plus approprié à la
 mise en oeuvre de l’ensemble des techniques
 
+.. _Paramètres_techniques_de_la_garde_opposée_Important:
 
 **Important :** le règlement n’interdit pas l’utilisation de la
 garde opposée ou de la fente en garde opposée. Les coups
@@ -588,7 +589,58 @@ Cette position d’armé non-fixe correspond au moment où l’arme est sur la t
 La fente
 ~~~~~~~~~
 
+**Définition :** la fente est une disposition réglementaire qui oblige le tireur qui frappe en ligne basse (jambe) à accompagner son coup de la flexion d’une jambe (dessus de la cuisse au minimum parallèle au sol, voire plus bas) et de l’extension de l’autre jambe.*
+
+L’histoire récente de la fente : une question de sécurité
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Longtemps, la fente de la Canne et du Bâton (jusqu’au début du 20 ème siècle) s’est inspirée de la fente de l’escrime. C’était une fente assez haute, surtout utilisée à l’estoc pour des coups en lignes haute ou médiane. Elle favorisait la propulsion et l’allongement du bras d’attaque et offrait, dans un abaissement du tireur, une réduction des surfaces de frappe exposées. Son utilisation n’avait pas, comme dans les disciplines de Canne de Combat et Bâton actuelles, de caractère obligatoire.
+
+Depuis la réactualisation de la Canne et du Bâton dans les années 1970, l’unique raison de cette contrainte réglementée (voir :ref:`la fente <La_fente>`) est de réduire l’oblicuité des coups jugée trop dangereuse, sachant que les coups d’estoc ont déjà été supprimés pour le même motif. L’estoc (coups piqués) peut être autorisé seulement en démonstration et en compétition technique en Canne et en Bâton.
+
+Il n’est pas autorisé de frapper en ligne haute ou médiane avec une fente et de frapper en ligne basse sans fente. La frappe en ligne basse, accompagnée d’une flexion des deux jambes, est autorisée dans un seul cas (voir :ref:`paramètres techniques de la flexion <Paramètres_techniques_de_la_Flexion>`). La contrainte de la fente, comme celle de l’armé, ont su trouver une réponse tactique. Par exemple : la fente peut être utilisée comme une esquive offensive sur un coup reçu en ligne haute ou médiane.
+
+**Conclusion :** les critères réglementaires de la fente (voir :ref:`la fente <La_fente>`) réclament une grande mobilisation musculaire qui fait de la fente un mouvement de grande tension dont la mauvaise exécution présente des contre-indications physiologiques. L’application des paramètres énoncés ci-après, évitera l’altération de l’intégrité physique des tireurs et favorisera, dans le respect des règles, l’efficacité des coups dans leur amplitude, rapidité et mise à distance des frappes. Par conséquent, l’échauffement spécifique, préparatoire à l’exécution des fentes (hanches en abduction) doit être très progressif et centré sur les étirements plus que sur la musculation. Il doit tenir compte de la physiologie du pratiquant. Cet échauffement, dans la mesure du possible, doit être personnalisé suivant l’entraînement qui lui succède, et individualisé suivant l’échantillonnage du public auquel il est adressé. Les muscles les plus sollicités dans l’exercice de la fente sont : les mollets (avec le tendon d’Achille), les adducteurs, les ischio-jambiers jumeaux, les tenseurs du fascia lata, le courturier, le pectiné, le pyramidal, l’obturateur interne, les quadriceps et les fessiers. Dans la progression de l’apprentissage des fentes, il est conseillé de n’aborder la fente arrière (position d’écart facial de grande tension) qu’après l’apprentissage complet de la fente avant (position d’écart entéro-postérieur) de moindre tension.
+
+Paramètres techniques communs à toutes les fentes
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+La position de fente en garde opposée n’est pas interdite à condition que la ligne des épaules et le bras muni de l’ame observent un angle ouvert (+ de 90°) au moment de la frappe (voir :ref:`paramètres techniques de la garde opposée <Paramètres_techniques_de_la_garde_opposée_Important>`).
+Toutes les fentes existantes sont classées suivant les deux catégories de fentes suivantes : les Fentes avant (position d’écart antéro-postérieur: jambes écartées vers l’avant et l’arrière du bassin) et les Fentes arrière (position d’écart facial : jambes écartées sur les côtes du bassin) qui peuvent s’orienter de façon différente, devenant des Fentes latérales ou opposées.
+
+La position de fente n’est pas toujours statique, elle peut changer au cours de l’exécution d’un coup ou d’un enchaînement de coups, exemple : passage de la Fente avant à la Fente arrière lorsque la cible n’est plus la jambe arrière, mais devient la jambe avant ; exemple : déplacements en position de fente pour atteindre une cible mouvante (voir :ref:`les déplacements, la fente ou flexion <La_fente_ou_flexion>`).
+
+  1. Les fentes sont exécutées à partir de cinq déplacements fondamentaux partant de la garde :
+
+    * Longitudinal (parallèle à l’axe de combat : par progression ou recul de l’un des deux appuis, l’autre appui ne bougeant pas, ou par déplacements profonds des deux appuis dans un bond, un pas simple (changement de garde) ou un pas chassé.
+    * Latéral (perpendiculaire à l’axe de combat) : par déplacement latéral de l’un des deux appuis, l’autre appui ne bougeant pas, ou par déplacements profonds des deux appuis dans un bond ou un pas chassé.
+    * Transversal (oblique) : déplacement situé entre les parallèle et la perpendiculaire de l’axe de combat. Utiliser les paramètres du déplacement longitudinal ou latéral suivant que cette obliquité se rapproche plus de l’un que de l’autre.
+    * Sur place : les deux appuis s’écartent en même temps. Longitudinalement, l’appui avant vers l’avant et l’appui arrière vers l’arrière, latéralement ou tranversalement, un appui vers la gauche et l’autre vers la droite (l’axe vertébral reste sur place) ou par déplacements profonds des deux appuis dans un bond, un pas simple (changement de garde) ou un pas chassé
+
+**Rappel :** les fentes sont exécutées avec une jambe fléchie (dessus de la cuisse au minimum parallèle au sol, voire plus bas) et l’autre jambe en extension (règlement d’arbitrage).
+
+  2. Le buste est légèrement incliné vers l’avant. Sur le plan technico-tactique, une position trop inclinée rajoute du poids sur l’appui avant et ancre le tireur sur cet appui, ce qui nuit à une bonne continuité dans l’enchaînement des techniques. Sur le plan physiologiquement, cette position exerce une tension lombaire importante en raison du grand bras de levier que représente le dos penché vers l’avant.
+  3. L’angle formé par la ligne des épaules et le bras muni de l’arme est ouvert (règlement d’arbitrage).
+  4. Malgré la position basse des fentes, le regard est toujours dirigé vers celui de l’adversaire, ou sa région observée (voir :ref:`positionnement de la partie haute point 2 <Position_garde_haute>`), quelque soit l’inclinaison du buste afin de ne pas relâcher la surveillance en direction de l’adversaire et pour éviter de présenter à l’adversaire la partie postérieure de la tête en orientant la face vers le sol (position sanctionnée par le règlement d’arbitrage car elle escamote une surface de frappe et présente un danger par l’exposition de la nuque).
+  5. La fente est achevée, au plus tard, au moment de l’impact.
+  6. Les appuis restent sur des axes parallèles pour favoriser l’équilibre et l’ouverture du bassin pour les coups extérieurs en Canne de Combat.
+  7. **Important :** la position qui consiste à poser l’appui de la jambe en extension sur le côté intérieur du pied, est totalement contre-indiquée. Physiologiquement, cette position de pied exerce une torsion de la cheville qui abaisse la malléole et le genou, verrouillant l’articulation de la jambe. La stabilité que la jambe en extension apporte à la fente n’est plus alors assurée par la musculature mais par la butée des ligaments du genou et de la cheville, décalant l’inertie du mouvement sur le côté du genou et de la cheville et non derrière eux. Cette poussée latéralisée peut provoquer de graves lésions des ligaments latéraux et croisés du genou. D’autre part, tactiquement, cette position dans laquelle l’appui de la jambe en extension n’est pas en contact plantaire avec le sol, rend cette jambe inopérante dans la dynamique qui succède à la fente.
+
+
+
+.. _Paramètres_techniques_de_la_Flexion:
+
+Paramètres techniques de la Flexion
++++++++++++++++++++++++++++++++++++++
+
+.. _La_fente_ou_flexion:
+
+La fente ou flexion ( c'est dans une liste)
++++++++++++++++++++++++++++++++++++++++++++
+
 .. _Methodologie_baton:
 
 Méthodologie des techniques du Batôn
 -------------------------------------
+
+
