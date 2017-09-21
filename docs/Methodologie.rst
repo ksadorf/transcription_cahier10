@@ -379,8 +379,8 @@ gardes (en pratique, bien que leur garde de prédilection
 reste toujours leur garde de référence initiale).
 
 
-« L'armé »
-~~~~~~~~~~~
+L'armé
+~~~~~~~
 
 **Définition :** l’armé est un mouvement préparatoire à l’exécution
 d’un coup, qui consiste à faire passer la main munie
@@ -594,7 +594,7 @@ La fente
 L’histoire récente de la fente : une question de sécurité
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Longtemps, la fente de la Canne et du Bâton (jusqu’au début du 20 ème siècle) s’est inspirée de la fente de l’escrime. C’était une fente assez haute, surtout utilisée à l’estoc pour des coups en lignes haute ou médiane. Elle favorisait la propulsion et l’allongement du bras d’attaque et offrait, dans un abaissement du tireur, une réduction des surfaces de frappe exposées. Son utilisation n’avait pas, comme dans les disciplines de Canne de Combat et Bâton actuelles, de caractère obligatoire.
+Longtemps, la fente de la Canne et du Bâton (jusqu’au début du 20 :sup:`ème` siècle) s’est inspirée de la fente de l’escrime. C’était une fente assez haute, surtout utilisée à l’estoc pour des coups en lignes haute ou médiane. Elle favorisait la propulsion et l’allongement du bras d’attaque et offrait, dans un abaissement du tireur, une réduction des surfaces de frappe exposées. Son utilisation n’avait pas, comme dans les disciplines de Canne de Combat et Bâton actuelles, de caractère obligatoire.
 
 Depuis la réactualisation de la Canne et du Bâton dans les années 1970, l’unique raison de cette contrainte réglementée (voir :ref:`la fente <La_fente>`) est de réduire l’oblicuité des coups jugée trop dangereuse, sachant que les coups d’estoc ont déjà été supprimés pour le même motif. L’estoc (coups piqués) peut être autorisé seulement en démonstration et en compétition technique en Canne et en Bâton.
 
@@ -608,7 +608,7 @@ Paramètres techniques communs à toutes les fentes
 La position de fente en garde opposée n’est pas interdite à condition que la ligne des épaules et le bras muni de l’ame observent un angle ouvert (+ de 90°) au moment de la frappe (voir :ref:`paramètres techniques de la garde opposée <Paramètres_techniques_de_la_garde_opposée_Important>`).
 Toutes les fentes existantes sont classées suivant les deux catégories de fentes suivantes : les Fentes avant (position d’écart antéro-postérieur: jambes écartées vers l’avant et l’arrière du bassin) et les Fentes arrière (position d’écart facial : jambes écartées sur les côtes du bassin) qui peuvent s’orienter de façon différente, devenant des Fentes latérales ou opposées.
 
-La position de fente n’est pas toujours statique, elle peut changer au cours de l’exécution d’un coup ou d’un enchaînement de coups, exemple : passage de la Fente avant à la Fente arrière lorsque la cible n’est plus la jambe arrière, mais devient la jambe avant ; exemple : déplacements en position de fente pour atteindre une cible mouvante (voir :ref:`les déplacements, la fente ou flexion <La_fente_ou_flexion>`).
+La position de fente n’est pas toujours statique, elle peut changer au cours de l’exécution d’un coup ou d’un enchaînement de coups, exemple : passage de la Fente avant à la Fente arrière lorsque la cible n’est plus la jambe arrière, mais devient la jambe avant ; exemple : déplacements en position de fente pour atteindre une cible mouvante (voir :ref:`les déplacements (la fente ou flexion) <Les_déplacements>`).
 
   1. Les fentes sont exécutées à partir de cinq déplacements fondamentaux partant de la garde :
 
@@ -626,21 +626,98 @@ La position de fente n’est pas toujours statique, elle peut changer au cours d
   6. Les appuis restent sur des axes parallèles pour favoriser l’équilibre et l’ouverture du bassin pour les coups extérieurs en Canne de Combat.
   7. **Important :** la position qui consiste à poser l’appui de la jambe en extension sur le côté intérieur du pied, est totalement contre-indiquée. Physiologiquement, cette position de pied exerce une torsion de la cheville qui abaisse la malléole et le genou, verrouillant l’articulation de la jambe. La stabilité que la jambe en extension apporte à la fente n’est plus alors assurée par la musculature mais par la butée des ligaments du genou et de la cheville, décalant l’inertie du mouvement sur le côté du genou et de la cheville et non derrière eux. Cette poussée latéralisée peut provoquer de graves lésions des ligaments latéraux et croisés du genou. D’autre part, tactiquement, cette position dans laquelle l’appui de la jambe en extension n’est pas en contact plantaire avec le sol, rend cette jambe inopérante dans la dynamique qui succède à la fente.
 
+.. _Paramètres_techniques_de_la_Fente_avant:
 
+Paramètres techniques de la Fente avant
++++++++++++++++++++++++++++++++++++++++++
+
+**Définition :** la jambe avant est fléchie et la jambe arrière en extension. Dans le cas de la Fente avant de référence, (non opposée et non latérale), la main munie de l’arme est du côté de la jambe avant fléchie. Le pied de la jambe fléchie est parallèle à la jambe en extension dans un écart antéro-postérieur (jambes écartées vers l’avant et l’arrière du bassin) ce critère supplémentaire permet de reconnaître une fente avant lorsqu’elle est dans une position opposée ou latérale. Sur un plan tactique, la Fente avant de référence (non opposée et non latérale) ne présente pas de contre-indication de position à la différence de la Fente arrière (voir :ref:`paramètres techniques de la Fente arrière <Paramètres_techniques_de_la_Fente_arrière>`).
+
+  1. Le poids du corps est réparti de façon presque égale sur les deux appuis avec une légère prédominance sur l’appui avant renforcée lors de l’étirement de la fente vers l’avant afin de remettre à distance de frappe un adversaire qui rompt.
+  2. La jambe avant est fléchie afin que l’angle formé par le sol et le tibia soit de 90°, et l’angle formé par le tibia et le dessus de la cuisse soit également de 90° (quadriceps à l’horizontale). Une position dans laquelle le genou est devant l’aplomb de la malléole met en tension excessive le ligament rotulien et le tendon d’Achille, et en compression postérieure, le ménisque. Une position dans laquelle le genou est derrière l’aplomb de la malléole met en tension excessive les ligaments croisés, et en compression antérieure, le ménisque.
+  3. Le pied avant de la jambe fléchie est dirigé vers l’adversaire (définition de la Fente avant), voire légèrement ouvert sur l’extérieur (voir :ref:`Positionnement de la partie basse (les appuis point 6)<Position_garde_appui>`)
+  4. Le poids sur le pied avant est davantage porté sur la partie avant du pied que sur le talon. Cette surcharge sur les métatarses (partie antérieure du pied) permet d’obtenir un meilleur équilibre et des appuis plus réactifs.
+  5. La jambe arrière est en extension sans verrouillage de l’articulation du genou (quelques degrés de flexion sont communément acceptés).
+  6. Le pied arrière de la jambe en extension est ouvert d’environ 45° par rapport à l’axe de combat et est en contact plantaire avec le sol (meilleur équilibre et appui réactif).
+  7. Le poids sur le pied arrière est davantage porté sur l’avant du pied que sur le talon (meilleur équilibre et appui réactif).
+  8. **Remarque :** en Fente avant uniquement, la position qui consiste à placer le pied de la jambe en extension dans l’axe de celle-ci (pointe de pied dirigée vers la jambe fléchie) a l’avantage de permettre le déverrouillage vers le bas de la jambe en extension, mais l’inconvénient de ne pas favoriser l’extension minimum requise par le règlement et de ne pas bien stabiliser la fente. Pour améliorer cette extension, le talon peut être posé au sol, mais il met alors sous tension excessive le tendon d’Achille et le mollet. Pour ces motifs, cette position de pied orientée dans l’axe de combat est déconseillée.
+  9. Le bras non muni de l’arme est en retrait (voir :ref:`positionnement de la partie haute et de l’arme (point 8)<Position_garde_haute>`).
+
+.. _Paramètres_techniques_de_la_Fente_arrière:
+
+Paramètres techniques de la Fente arrière
++++++++++++++++++++++++++++++++++++++++++
+
+**Définition :** la jambe avant est en extension et la jambe arrière fléchie. Dans le cas de la Fente arrière de référence (non opposée et non latérale) la main avant munie de l’arme est du côté de la jambe avant tendue. Le pied de la jambe fléchie est perpendiculaire à la jambe en extension dans un écart facial (jambes écartées sur les côtés du bassin), ce critère supplémentaire permet de reconnaître une fente arrière lorsqu’elle est dans une position opposée ou latérale. Sur le plan tactique, la Fente arrière de référence (non opposée et non latérale) est opportune lorsqu’elle est utilisée pour se dégager d’un corps à corps, en se positionnant en fente à distance de frappe en reculant uniquement la jambe arrière. En revanche, lorsque cette fente est exécutée en progression vers l’adversaire ou latéralement elle a le désavantage de trop exposer la jambe tendue.
+
+  1. Le poids du corps est réparti de façon inégale sur les deux appuis. Le recul naturel de la Fente arrière distribue davantage de poids à l’arrière de la fente (sur la jambe fléchie). La surcharge de la jambe arrière favorise la vitesse d’affaissement de cette fente et place le tireur sur une assise basse, dans une position avec peu de variables.
+  2. Le pied arrière de la jambe fléchie est perpendiculaire à la jambe en extension (définition de la Fente arrière).
+  3. Le contact d’appui de la jambe arrière fléchie change selon que le talon touche le sol ou non, ce qui détermine certains éléments techniques. La position talon décollé du sol permet le redressement du buste et, en Canne de Combat, rend l’exécution du Latéral extérieur moins difficile que dans la position talon au sol. Au Bâton, ce sera le latéral croisé (voir :ref:`la garde au batôn (important) <La_garde_baton>`). En revanche, la position talon au sol a l’avantage de freiner tardivement l’affaissement de la fente et d’augmenter ainsi la vitesse de la phase terminale du coup.
+  4. Le pied avant de la jambe en extension est en contact plantaire avec le sol et s’oriente naturellement de 45° vers l’intérieur de la fente.
+  5. **Remarque :** en Fente arrière uniquement, la position qui consiste à placer le pied avant de la jambe en extension à la verticale, pointe du pied vers le haut et talon d’Achille au sol est déconseillée. Tactiquement, cette position, dans laquelle l’appui de la jambe en extension n’est pas en contact plantaire avec le sol, rend cette jambe inopérante dans la dynamique qui suit la fente. Physiologiquement, cette position raidit la jambe avant dans une tension excessive, bien que le déverrouillage vers le haut de l’articulation soit facilité par cette position.
+  6. Le bras non muni de l’arme :
+     
+     * est positionné entre les jambes (bras rentrant), le coude vers le sol, appuyé contre l’intérieur du genou de la jambe arrière fléchie pour ramener du poids sur l’appui avant, rééquilibrant les appuis et les rendant plus opérationnels dans la motricité qui suit la fente.
+     * se positionne en retrait (bras sortant, devant ou sur le côté du buste) (voir :ref:`positionnement de la partie haute et de l’arme (point 8)<Position_garde_haute>`) pour mieux stabiliser la fente arrière (surtout pour les débutants).
+       
 
 .. _Paramètres_techniques_de_la_Flexion:
 
 Paramètres techniques de la Flexion
 +++++++++++++++++++++++++++++++++++++
 
-.. _La_fente_ou_flexion:
+**Définition :** La flexion répond à une disposition réglementaire qui autorise le tireur qui frappe en ligne basse (jambe) à accompagner son coup de la flexion des deux jambes (dessus des cuisses au minimum parallèle au sol, voire plus bas) à la place d’une fente, uniquement dans le cas ou cette flexion est, dans son premier mouvement, l’esquive d’un coup. La riposte en flexion doit s’exécuter dans le temps finale de la flexion (comme pour la fente, la flexion doit être positionnée, au plus tard, au moment de la frappe). En effet, la flexion ne peut pas être une position d’attente de laquelle seraient exécutés des coups sans être directement liés à l’esquive que représente le mouvement amorçant la flexion.
 
-La fente ou flexion ( c'est dans une liste)
-+++++++++++++++++++++++++++++++++++++++++++
+  1. La position des appuis est celle de la garde (voir :ref:`positionnement de la partie basse (les appuis point 2 et 6)<Position_garde_appui>`)
+  2. Le poids du corps est réparti de façon égale sur les deux appuis (voir :ref:`positionnement de la partie basse (les appuis point 8)<Position_garde_appui>` et :ref:`paramètres techniques de l’armé communs à tous les coups (point 6) <Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`)
+  3. Les genoux sont écartés de la largeur des épaules pour faciliter l’équilibre et l’impulsion musculaire de la sortie de flexion.
+  4. L’angle formé par la ligne des épaules et le bras muni de l’arme est ouvert (règlement d’arbitrage).
+  5. Le contact des appuis change selon que les talons touchent le sol ou non, ce qui détermine certains éléments technico-tactiques. La position talons décollés du sol permet le redressement du buste et, en Canne de Combat, rend l’exécution du Latéral extérieur moins difficile que dans la position talons au sol. Au Bâton, ce sera le latéral croisé (voir :ref:`la garde au batôn (important) <La_garde_baton>`). En revanche, la position talons au sol a l’avantage de freiner tardivement l’affaissement de la flexion et d’augmenter ainsi la vitesse de la phase terminale du coup.
+  6. Le bras non muni de l’arme est en retrait (voir :ref:`positionnement de la partie haute et de l’arme (point 8)<Position_garde_haute>`).
+  7. **Conclusion :** le choix de la fente doit se faire en fonction d’options techniques et tactiques, mais avant tout, par rapport au confort physiologique que sa position procure au cours du développement des coups.
+
+.. _Les_déplacements:
+
+Les déplacements
+~~~~~~~~~~~~~~~~~
+
+**Introduction :** la motricité des sports de combat est l’expression d’une mobilité qui prend en compte les contraintes techniques et tactiques de la discipline et les capacités du tireur à les assumer en fonction de ses objectifs, de sa physiologie et des velléités de l’adversaire.
+
+**Définition :** le déplacement est défini par le changement de position d’au moins un des deux appuis. Il permet au tireur d’obtenir, de conserver une distance de combat (distance de frappe) ou de s’y dérober. La notion de déplacement étant étroitement liée à la gestion de l’occupation de l’aire de combat, il a été choisi de définir les déplacements par rapport à ceux des appuis et non du centre de gravité qui qualifieraient de déplacements une flexion ou un saut sauf s’ils sont accompagnés d’un déplacement horizontal. Les déplacements offensifs ont pour objet de régler une distance de frappe et/ou de positionner l’adversaire dans des configurations défensives fragilisées (feintes de corps et recherche de nouveaux angles de frappe). L’amplitude des déplacements varie selon l’engagement d’un ou des deux appuis. La mobilisation des appuis est alors qualifiée de deux façons différentes : le décalage (déplacement d’un appui) ; le débordement (déplacement des deux appuis). Les déplacements défensifs ont pour objet de retirer une zone de frappe et/ou d’amorcer une contre-attaque. Par conséquent, lorsqu’un déplacement initialement défensif devient offensif, il est qualifié de décalage ou débordement (termes habituellement réservés aux déplacements offensifs).
+
+  1. Les déplacements varient selon leur amplitude, leur vitesse et leur nature offensive ou défensive.
+  2. Ils sont caractérisés par la nécessité de maintenir les appuis opérationnels (réactifs) en toutes circonstances, tout en répondant aux spécificités techniques de la discipline et tactiques de la situation de combat.
+  3. On dénombre neuf principaux types de déplacements :
+
+     * **Le pas marché :** à utiliser de préférence hors des distances de combat, car les appuis se croisent et sont ainsi vulnérables.
+     * **Le pas couru :** à utiliser de préférence hors des distances de combat, car les appuis se croisent et décollent du sol et sont ainsi vulnérables.
+     * **Le pas chassé :** un pied chasse l’autre, en profondeur (dans l’axe de combat), latéralement (sur le côté). A utiliser de préférence hors des distances de combat, car les appuis se rapprochent ou se croisent et sont ainsi vulnérables.
+     * **Le pas glissé ou progressif :** le pied qui est du côté du déplacement progresse en premier, suivi de l’autre pied (déplacement à droite : pied droit en premier ; déplacement vers l’avant : pied avant en premier ; etc.). Si l’écartement est modéré et les appuis ne se rapprochent pas trop lors du déplacement, ce pas peut être utilisé à distance de combat, car les appuis restent opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
+     * **Le pas slalomé :** progression qui décrit un louvoiement en passant d’un appui à l’autre. Ce déplacement peut être assimilé à des décalages ou à des débordements successifs des deux côtés de l’axe de combat. Ce pas peut être utilisé à distance de combat, car les appuis restent opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
+     * **Le pas rotatif ou en volte :** déplacement tournant offensif ou défensif. Ce pas peut être utilisé à distance de combat, car les appuis restent opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
+     * **Le bond ou saut :** déplacement vertical et/ou horizontal avec décollement des appuis, surtout utilisé en esquive riposte ou en progression rapide vers une position d’attaque ou de défense. Les coups aériens compensent la perte des appuis par la fixation du bassin en position sautée à partir de laquelle la forte mobilisation des muscles de la ceinture abdominale transmet le mouvement de la frappe comme par exemple : un tir sauté au handball. Ce déplacement peut être donc utilisé à distance de combat, même si les appuis ne sont pas opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
+     * **La fente ou flexion :** déplacement en position basse qui respecte les paramètres de la fente (voir :ref:`la fente <La_fente>`) ou de la flexion (voir :ref:`paramètres techniques de la flexion <Paramètres_techniques_de_la_Flexion>`). Ce déplacement peut être utilisé à distance de combat, car les appuis restent opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
+     * **Le déplacement acrobatique :** en dehors du salto classé dans les sauts, on observe surtout des figures acrobatiques avec appui des mains au sol comme la roue, la rondade ou le flip. Ces déplacements n’ont pas seulement un effet démonstratif mais peuvent être réellement efficaces (voir :ref:`positionnement de la partie basse <Position_garde_appui>`) et être utilisés à distance de combat.
+  
+  4. Plusieurs types de déplacements sont parfois mêlés, comme : la volte sautée ; la marche sautée ; la fente en pas chassés, etc. La plupart de ces déplacements peuvent s’achever sur un changement de garde, ce qui augmente d’autant le nombre de positions qui en résultent.
+  5. **Remarque :** sachant que la synergie de tout mouvement, en dehors des sauts, part des appuis, il est nécessaire pour obtenir une motricité réactive, de conserver les appuis en contact avec le sol ou près du sol. Ce qui signifie que les différents pas devront être plutôt glissés qu’enjambés.
+
+Les parades et les esquives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Dans le cas d’une contre-attaque, ces mouvements défensifs doivent toujours la précéder afin que soit respecté l’un des principes fondamentaux de la Canne de Combat et du Bâton : le respect de la parade ou de l’esquive/riposte. En effet, la logique du combat veut que l’on ne puisse pas riposter immédiatement lorsque l’on vient d’être touché. Dans ce cas-là, la contre-attaque ne peut être déclenchée qu’après une césure, la contre-attaque devient alors une attaque simple débutant une nouvelle action de combat.
+
+Les parades
+++++++++++++
 
 .. _Methodologie_baton:
 
 Méthodologie des techniques du Batôn
 -------------------------------------
+
+.. _La_garde_baton:
+
+La garde
+~~~~~~~~~
 
 
