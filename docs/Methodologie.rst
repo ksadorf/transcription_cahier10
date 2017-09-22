@@ -346,6 +346,8 @@ Combat et du Bâton parce qu’elles sont les mieux adaptées
 à la physiologie, à l’amplitude et à la fluidité des enchaînements
 des techniques.
 
+.. _Caractéristiques_techniques_des_changements_de_garde:
+
 Caractéristiques techniques des changements de garde
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -702,6 +704,8 @@ Les déplacements
   4. Plusieurs types de déplacements sont parfois mêlés, comme : la volte sautée ; la marche sautée ; la fente en pas chassés, etc. La plupart de ces déplacements peuvent s’achever sur un changement de garde, ce qui augmente d’autant le nombre de positions qui en résultent.
   5. **Remarque :** sachant que la synergie de tout mouvement, en dehors des sauts, part des appuis, il est nécessaire pour obtenir une motricité réactive, de conserver les appuis en contact avec le sol ou près du sol. Ce qui signifie que les différents pas devront être plutôt glissés qu’enjambés.
 
+.. _Les_parades_et_les_esquives:
+
 Les parades et les esquives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -709,6 +713,68 @@ Dans le cas d’une contre-attaque, ces mouvements défensifs doivent toujours l
 
 Les parades
 ++++++++++++
+
+  1. **Remarque :** sur un plan technico-tactique, de la même manière que la rotation des hanches tire le bras vers l’armé, la rotation des hanches tire le bras vers les parades latérales afin de pouvoir transformer très rapidement la parade en armé. Les parades en toit parant les coups verticaux ne sont pas directement engagées par les hanches mais le deviennent dans les parades actives, appelées également parades volantes, offensives ou parades/ripostes (voir :ref:`les parades et les esquives (point 12) <Les_parades_et_les_esquives>`).
+  2. Il y a deux grandes catégories de parades qui correspondent aux deux côtés de la garde :
+
+    * Les parades extérieures (du côté extérieur de la garde).
+
+      * En Canne de Combat : elles sont du côté des armés des coups extérieurs.
+      * Au Bâton : les parades du côté des armés des coups extérieurs sont paradoxalement du côté intérieur de la garde et se nomment ainsi parades intérieures (voir :ref:`la garde au batôn (important) <La_garde_baton>`).
+
+    Par conséquent, les parades extérieures en Canne de Combat et les parades intérieures en Bâton, sont à droite de la garde, pour un droitier.
+
+    * Les parades croisées (du côté intérieur de la garde).
+
+      * En Canne de Combat : elles sont du côté des armés des coups croisés, côté intérieur de la garde. 
+      * Au Bâton : les parades du côté des armés des coups croisés, sont paradoxalement du côté extérieur de la garde, mais conservent leur dénomination de parades croisées (voir :ref:`la garde au batôn (important) <La_garde_baton>`).
+    
+    Par conséquent, en Canne de Combat et en Bâton, les parades croisés sont à gauche de la garde, pour un droitier.
+
+  3. Pour les parades extérieures ou croisées en lignes haute ou médiane parant les coups horizontaux, les deux positions, pointe de l’arme vers le haut (main au niveau de la ceinture) ou vers le bas (main au niveau de la partie supérieure du crâne), sont possibles en fonction de l’orientation offensive ou défensive qui est donnée à la suite de la parade.
+  4. Pour les parades en ligne basse parant les coups horizontaux, seule la parade, pointe en bas (main au niveau de la hanche ou de l’épaule en position de fente), est autorisée. En effet, le règlement d’arbitrage stipule que les parades en ligne basse,en position accroupie, pointe de l’arme vers le haut ou vers le bas offrant une protection des trois lignes horizontales à la fois en recroquevillant son utilisateur, ferment le combat et présentent donc un caractère anti-sportif. Par conséquent, leur utilisation pourra être suivie de sanctions.
+  5. La main qui tient l’arme verticalement, dans certaines positions de parades, peut orienter sa paume suivant des directions différentes en fonction de l’orientation offensive ou défensive qui est donnée à la suite de la parade.
+  6. Pour toutes les parades, le tireur rapproche légèrement la pointe de sa canne vers lui, vers son axe vertébral, l’arme est ainsi obliquée afin de :
+
+    * Positionner la moitié supérieure de la canne (partie de l’arme qui arrête le coup) près du corps du défenseur pour protéger le mieux possible la surface de frappe sur les différents angles d’attaque.
+    * Provoquer l’échappement de la canne qui exécute l’attaque. Ceci dans un glissement vers la pointe de la canne qui pare afin que la canne de l’attaquant ne revienne pas sur la main du défenseur.
+    * Favoriser l’amorce de l’armé à partir de la parade en limitant le déplacement de la pointe de l’arme pendant la transition de la parade en armé. Cette fixation de la pointe de l’arme rend également plus rapide le passage d’une parade à une autre. Exemple : lorsque l’on passe d’une parade extérieure flanc (pointe en haut) à une parade croisée flanc (point en haut), hormis la base de l’arme qui se déplace avec la main et les hanches qui l’accompagnent d’un côté à l’autre de la garde, la pointe de la canne se dépace très peu latéralement, restant près de l’axe vertébral, l’arme changeant d’inclinaison de la première parade à la deuxième.
+  
+  7. Le trajet qu’emprunte la canne pour aller de la garde à la parade croisée basse peut suivre différentes trajectoires (avant, arrière ou latérale) en fonction du degré d’anticipation de l’attaque et de l’orientation offensive ou défensive qui sera donnée à la suite de la parade.
+
+    **Exemple :** lorsque la parade croisée basse (pointe en bas) arrive par l’avant ou le côté intérieur de la garde (par le côté extérieur : risque de retard de la parade), la riposte sera naturellement un croisé-tête, un latéral croisé ou un croisé-bas suivant la position de la main munie de l’arme en parade (paume tournée vers l’extérieur de la garde : riposte en croisé-tête ; paume tournée vers l’intérieur de la garde : riposte en latéral croisé ou en croisé-bas). Lorsque la parade croisée basse (pointe en bas) arrive par l’arrière de la garde, la riposte sera naturellement un coup extérieur (brisé, enlevé, latéral extérieur) ou un croisé-bas s’il est suffisamment anticipé.
+
+  8. Le contact de la pointe de la canne avec le sol est déconseillé, lors des parades basses, afin de ne pas interrompre, dans une pose musculaire, la synergie qui suit la parade dans son orientation offensive ou défensive.
+  9. Les parades acrobatiques derrière le dos ont une efficacité relative qui dépend du mouvement qui les intègre, comme la volte défensive.
+  10. Les parades dites : actives, offensives, volantes ou parades/ripostes sont des parades qui se transforment en mouvement offensif dans un geste continu. La parade n’est plus alors qu’une position transitoire avant l’armé. Ces parades peuvent aller jusqu’au balayage de la canne adverse, à la condition qu’elles ne repoussent pas ou n’emportent pas la canne adverse dans un choc violent.
+
+Les esquives
+++++++++++++
+
+**Définition :** les esquives sont des mouvements ou des déplacements défensifs qui soustraient les surfaces de frappe aux attaques.
+
+  1. **Remarque :** l’esquive, n’engageant pas un écran défensif, libère la canne du tireur pour lui permettre la riposte dans le temps exact de l’esquive. Les parades, souvent piégées par des feintes, peuvent, soit s’accompagner d’une esquive opposée et complémentaire (pour une protection complète : parer en ligne haute et médiane et esquiver en même temps en ligne basse ou inversement,), soit être remplacées par une esquive totale, lorsque l’anticipation le permet.
+  2. Il y a trois grandes catégories d’esquives :
+
+    * Esquives sur place (retrait de la surface visée sans déplacement des appuis) :
+
+      * Retrait de la tête par esquives de boxeur.
+      * Retrait du buste par rétroversion (cambrure lombaire : contre-indication physiologique).
+      * Retrait de la tête et du flanc par flexion ou fente.
+
+    * Esquives partielles avec déplacement d’un seul appui dont les décalages (voir :ref:`Les déplacements (définitions) <Les_déplacements>`) et les changements de garde (voir :ref:`caractéristiques techniques des changements de garde <Caractéristiques_techniques_des_changements_de_garde>` et :ref:`Les déplacements (point 4) <Les_déplacements>`) :
+
+      * Retrait du buste ou du corps entier, notamment par changement de garde en reculant le pied avant, suffisamment pour qu’il se positionne derrière le pied arrière.
+      * Retrait d’une jambe en la déplaçant horizontalement ou verticalement, notamment en adoptant la position d’équilibre sur un pied ou la position de fente ou de la flexion pour l’esquive d’un coup en ligne haute.
+    
+    * Esquives totales avec déplacement des deux appuis dont les débordements (voir :ref:`Les déplacements (définitions) <Les_déplacements>`) et les changements de garde (voir :ref:`caractéristiques techniques des changements de garde <Caractéristiques_techniques_des_changements_de_garde>` et :ref:`Les déplacements (point 4) <Les_déplacements>`) :
+
+      * Retrait du corps entier par déplacement des deux appuis (déplacements latéraux : vers la droite ou la gauche ; en profondeur : vers l’arrière ou l’avant ; en biais : déplacements desaxés). La progression pénétrante qui projette le défenseur vers l’avant jusqu’à le positionner dans le dos de l’attaquant comporte une phase d’anti-jeu (règlement d’arbitrage). Cette phase d’anti-jeu est constatée lorsque le défenseur s’avance, dans un premier temps, vers l’attaquant avant de passer derrière lui. En effet, la règle stipule qu’une avancée du défenseur qui empêche l’attaquant de toucher la cible avec le quart supérieur de la canne est qualifiée d’anti-jeu, sauf lorsque ce déplacement vers l’avant est suivi, dans un même mouvement, d’une attaque à distance exécutée par le défenseur.
+      * On trouve également dans les esquives totales par déplacement des deux appuis : les voltes et toutes les esquives sautées, simples ou acrobatiques (voir :ref:`Les déplacements (point 3) <Les_déplacements>`).
+
+
+Les coups
+~~~~~~~~~~
 
 .. _Methodologie_baton:
 
