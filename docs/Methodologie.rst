@@ -776,6 +776,63 @@ Les esquives
 Les coups
 ~~~~~~~~~~
 
+Rappel des règles techniques de la validité d’une touche
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Les règles techniques de la validité d’une touche comprenant 10 critères de validité. Ces 10 critères sont classés en deux catégories :
+
+  1. Six critères inhérant à l’image globale de la touche
+  2. Quatre critères inhérant à la mise en situation opérationnelle de la touche
+
+Six critères inhérant à l’image globale de la touche
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  1. Obligation d’armer les coups (main munie de l’arme reculant, dans un premier temps, derrière l’axe vertébral avant de revenir vers la cible).
+  2. Obligation d’accompagner les attaques en jambe d’une fente (avant, arrière ou latérale) ou d’une flexion (voir :ref:`paramètres techniques de la flexion<Paramètres_techniques_de_la_Flexion>`) avec interdiction d’accompagner les attaques en ligne haute d’une fente ou d’une flexion.
+  3. Respect du plan et de l’axe de rotation des coups (exemple : les armés des Latéraux extérieurs et croisés avec canne verticale ou main trop basse sont interdits ; les trajectoires remontantes ou descendantes des Latéraux extérieurs ou croisés sont interdites ; l’Enlevé et le Brisé avec canne obliquée vers l’extérieur ou l’intérieur du plan de rotation sont interdits ; le bras fléchi lors du développement arrière du croisé bas et haut sont interdits ; etc.).
+  4. Obligation d’exécuter la circumduction de l’arme derrière l’axe vertébral.
+  5. Obligation d’observer un angle ouvert entre la ligne des épaules et le bras muni de l’arme au moment de la touche.
+  6. Obligation de positionner la Canne dans le prolongement du bras et de l’avant bras au moment de la touche
+
+Quatre critères inhérant à la mise en situation opérationnelle de la touche
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+  7. Respect du principe de parade ou esquive/riposte
+  8. Obligation de n’atteindre les cilbes qu’avec le quart supérieur de l’arme et avec le côté de celle-ci (l’estoc : coup de pointe interdit en combat)
+  9. Respect de la qualité règlementaire de l’impact de l’arme sur la cible : la touche doit être nette et non violente (le simple contact entre la canne et la cible suffit, sans rupture de rythme)
+  10. Respect des surfaces de frappe autorisées (tête, flanc, jambes) :
+
+    * Le dessus et les faces latérales de la tête. Le grillage de la face antérieure est autorisé lorsque la canne le touche dans un axe perpendiculaire, l’attaquant se trouvant sur le côté du défenseur. En dehors de cette configuration, les frottements de la pointe de la canne sur le grillage ne sont pas valides.
+    * Le flanc est autorisé uniquement pour la catégorie masculine (surface située entre la ceinture et les aisselles, sur ses faces latérales et sa face antérieure).
+    * La jambe (surface située entre la cheville et le genou). Le mollet est autorisé.
+
+Toutes les autres surfaces sont donc interdites : pied, cheville, genou, cuisses, hanches, triangle génital, fessiers, dos, mains, bras, épaules, cou, nuque, partie postérieure de la tête.
+
+Observations
++++++++++++++
+
+  * Pour tous les coups décrits ci-après, la rotation du poignet, à l’issue de la phase d’armé, doit impérativement s’effectuer derrière l’axe vertébral et, de la même façon, environ 80 % de la circumduction totale de la canne sont réalisés derrière l’axe (sauf au Bâton : voir :ref:`description technique du latéral extérieur <Description_technique_du_Latéral_extérieur_baton>`, :ref:`description technique du latéral croisé <Description_technique_du_Latéral_croisé_baton>`, :ref:`description technique du brisé <Description_technique_du_Brisé_baton>`, :ref:`description technique du l'Enlevé <Description_technique_de_l_Enlevé_baton>`,  :ref:`description technique du Croisé-tête <Description_technique_du_Croisé_tête_baton>` et :ref:`description technique du Croisé-bas <Description_technique_du_Croisé_bas_baton>`)
+  * La position de la main munie de l’arme, au moment de l’impact, varie selon les trajectoires utilisées et selon l’amorce la plus favorable pour le coup suivant. Exemples : au moment de la frappe, la position de la main en supination favorise l’enchaînement du Croisé-bas ou du Latéral croisé (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en pronation favorise l’enchaînement du Latéral extérieur ou du Croisé-tête (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en position intermédiaire, la paume tournée vers l’intérieur de la garde, le pouce vers le haut, favorise l’enchaînement de tous les coups sauf du Croisé-tête (position défavorable de la main nécessitant un retournement complet de la main pour l’amorce du Croisé-tête) ; la position de la main en position intermédiaire, la paume tournée vers l’extérieur de la garde, le pouce vers le bas, favorise l’enchaînement du Croisé-tête, du Latéral extérieur ou de l’Enlevé (position défavorable de la main pour l’amorce rapide des autres coups), mais elle est déconseillée car elle présente des contre-indications physiologiques lorsque les coups sont exécutés à vitesse rapide. 
+
+    En outre, la position de la main, au moment de la frappe, lorsque la canne est dans le prolongement du bras, doit tenir compte du confort physiologique du bras muni de l’arme. Les positions de la main qui respectent le mieux la physiologie et la continuité globale des mouvements, au moment de la frappe, sont celles qui sont comprises entre la position intermédiaire (paume tournée vers l’intérieur de la garde, pouce dirigé vers le haut) et la position de la main en pronation.
+
+  * Le tireur doit veiller, dans la phase finale du développement de ses coups, à ne pas se pencher vers l’avant. Il doit conserver son centre de gravité sur l’axe vertébral (au centre de son polygone de sustentation) pour que, tactiquement, il soit en mesure de créer de la continuité dans sa motricité, pour que physiologiquement, il puisse éviter les tensions proprioceptives de déséquilibre qui nuiraient à la gestion de ses ressources, et pour que psychologiquement, ses actions ne soient pas l’émanation d’une fuite en avant, mais le résultat de la projection mentale d’une suite de gestes contrôlée selon un objectif précis.
+
+Description technique du Salut
++++++++++++++++++++++++++++++++
+
+Le mouvement du salut est le mouvement de l’Enlevé suivi du Croisé-bas (voir :ref:`description technique du l'Enlevé <Description_technique_de_l_Enlevé>` et :ref:`description technique du Croisé-bas <Description_technique_du_Croisé_bas>`).Partir d’une position des jambes en extension et du buste redressé (position de garde-à-vous, talons joints). Faisant face à l’adversaire ou à l’audience que le tireur va saluer, il tient sa canne en position de parade extérieure basse pointe en bas contre le pied (pour un droitier, il s’agit de la parade basse sur son côté droit). Les bras sont en extension vers le bas. Le bras muni de l’arme s’écarte sur le côté, d’une vingtaine de centimètres de la hanche et l’autre bras descend le long du corps. Dans cette position, au commandement : « Prêt pour le salut !? », le tireur tend sa canne devant lui, presque à l’horizontale (légèrement inclinée vers le bas). L’autre bras ne bouge pas. Le tireur tient la posture avec prestance. Au commandement : « Saluez ! », le tireur exécute l’Enlevé suivi du Croisé-bas. Le tireur n’accompagnant pas son geste d’une rotation du buste, les deux coups sont armés devant l’axe vertébral. Le tireur arrête le mouvement du salut dans la position où il l’avait commencé (canne à l’horizontale). Il maintient sa position une à deux secondes pour marquer le salut.
+
+.. _Description_technique_de_l_Enlevé:
+
+Description technique de l’Enlevé
+++++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Croisé_bas:
+
+Description technique du Croisé-bas
+++++++++++++++++++++++++++++++++++++
+
 .. _Methodologie_baton:
 
 Méthodologie des techniques du Batôn
@@ -786,4 +843,40 @@ Méthodologie des techniques du Batôn
 La garde
 ~~~~~~~~~
 
+.. _Les_coups_baton:
 
+Les coups
+~~~~~~~~~
+
+Description technique du Salut
++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Latéral_extérieur_baton:
+
+Description technique du Latéral extérieur
+++++++++++++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Latéral_croisé_baton:
+
+Description technique du Latéral croisé
+++++++++++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Brisé_baton:
+
+Description technique du Brisé
++++++++++++++++++++++++++++++++
+
+.. _Description_technique_de_l_Enlevé_baton:
+
+Description technique de l’Enlevé
+++++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Croisé_tête_baton:
+
+Description technique du Croisé-tête
++++++++++++++++++++++++++++++++++++++
+
+.. _Description_technique_du_Croisé_bas_baton:
+
+Description technique du Croisé-bas
+++++++++++++++++++++++++++++++++++++
