@@ -547,6 +547,8 @@ d’être transversal dans la projection du bras vers la cible.
    12. Le bras non muni de l’arme accompagne le mouvement
        des épaules (voir :ref:`positionnement de la partie haute point 8 <Position_garde_haute>`).
 
+.. _Paramètres_techniques_de_l_armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs:
+
 Paramètres techniques de l’armé particuliers aux coups horizontaux intérieurs et extérieurs : le Latéral croisé et le Latéral extérieur
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -558,6 +560,8 @@ Paramètres techniques de l’armé particuliers aux coups horizontaux intérieu
   3. Pour l’armé du Latéral croisé, la main armée est en position latérale (paume dirigée vers l’intérieur de la garde, vers l’axe vertébral).
   4. Pour l’armé du Latéral extérieur, la main armée est positionnée en pronation, voire légèrement latéralisée (paume dirigée vers l’extérieur de la garde, à l’opposé de l’axe vertébral).
   5. Desserrer légèrement l’étreinte de la main du côté auriculaire, seulement dans la position de l’armé du Latéral croisé, afin que l’arme conserve son assiette.
+
+.. _Paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_extérieurs_moulinés:
 
 Paramètres techniques de l’armé particuliers aux coups verticaux extérieurs moulinés : le Brisé et l’ Enlevé
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -572,6 +576,8 @@ Cette position d’armé semi-fixe correspond au moment où la main armée finit
   
       * Concernant le Brisé, les phases d’armé et de retour vers la cible décrivent le va-et-vient du mouvement de piston. Le Brisé a donc un effet coup de poing direct qu’il est plus efficace de faire partir de l’épaule. La distance qui va de l’armé épaule à la cible (dessus de la tête) est la plus courte. En outre, le Brisé armé à la hanche, arrive souvent sabré (angle formé entre la canne et le bras, au moment de la frappe, lorsque la main a de l’avance sur la pointe de la canne, ce que sanctionne le règlement d’arbitrage).
       * Concernant l’Enlevé, les phases d’armé et de retour vers la cible décrivent le va-et-vient elliptique du mouvement de bielle-piston. Pour l’Enlevé, l’armé à la hanche offre une trajectoire de frappe plus directe (la cible étant en ligne basse). Cependant, il rapproche le mouvement du sol lors du retour de l’arme vers la cible, obligeant le tireur à se fendre après l’impact, ce que sanctionne le règlement d’arbitrage qui stipule que les coups en ligne basse doivent être accompagnés d’une fente, la fente devant être achevée au moment de l’impact en jambe et non après. En outre, tactiquement, l’armé épaule identique pour le Brisé et l’Enlevé permet une feinte en offrant la possibilité d’ intervertir ces deux coups au moment de leur retour vers la cible, ou de transformer l’armé épaule du Brisé ou de l’Enlevé en armé de Latéral extérieur.
+
+.. _Paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_croisés_intérieurs:
 
 Paramètres techniques de l’armé particuliers aux coups verticaux croisés intérieurs : le Croisé-tête et le Croisé-bas
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -776,6 +782,8 @@ Les esquives
 Les coups
 ~~~~~~~~~~
 
+.. _Rappel_des_règles_techniques_de_la_validité_d_une_touche:
+
 Rappel des règles techniques de la validité d’une touche
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -808,6 +816,8 @@ Quatre critères inhérant à la mise en situation opérationnelle de la touche
 
 Toutes les autres surfaces sont donc interdites : pied, cheville, genou, cuisses, hanches, triangle génital, fessiers, dos, mains, bras, épaules, cou, nuque, partie postérieure de la tête.
 
+.. _Les_coups_Observations:
+
 Observations
 +++++++++++++
 
@@ -823,15 +833,136 @@ Description technique du Salut
 
 Le mouvement du salut est le mouvement de l’Enlevé suivi du Croisé-bas (voir :ref:`description technique du l'Enlevé <Description_technique_de_l_Enlevé>` et :ref:`description technique du Croisé-bas <Description_technique_du_Croisé_bas>`).Partir d’une position des jambes en extension et du buste redressé (position de garde-à-vous, talons joints). Faisant face à l’adversaire ou à l’audience que le tireur va saluer, il tient sa canne en position de parade extérieure basse pointe en bas contre le pied (pour un droitier, il s’agit de la parade basse sur son côté droit). Les bras sont en extension vers le bas. Le bras muni de l’arme s’écarte sur le côté, d’une vingtaine de centimètres de la hanche et l’autre bras descend le long du corps. Dans cette position, au commandement : « Prêt pour le salut !? », le tireur tend sa canne devant lui, presque à l’horizontale (légèrement inclinée vers le bas). L’autre bras ne bouge pas. Le tireur tient la posture avec prestance. Au commandement : « Saluez ! », le tireur exécute l’Enlevé suivi du Croisé-bas. Le tireur n’accompagnant pas son geste d’une rotation du buste, les deux coups sont armés devant l’axe vertébral. Le tireur arrête le mouvement du salut dans la position où il l’avait commencé (canne à l’horizontale). Il maintient sa position une à deux secondes pour marquer le salut.
 
+.. _Description_technique_du_Latéral_extérieur:
+
+Description technique du Latéral extérieur
+++++++++++++++++++++++++++++++++++++++++++
+
+  * Trajectoire : horizontale
+  * Mouvement elliptique de la canne : simple rotation du poignet. Derrière l’axe vertébral, dans un mouvement de fronde, la main décrit une circumduction horizontale qui va de l’avant vers l’arrière, puis de nouveau vers l’avant. Durant le mouvement complet du coup, la main reste fermée sur l’arme.
+  * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups horizontaux intérieurs et extérieurs <Paramètres_techniques_de_l_armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs>`.
+  * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
+  * Fente : (voir :ref:`la fente <La_fente>`) lorsque le Latéral extérieur est exécuté en jambe.
+  * Cibles : (voir :ref:`rappel des règles techniques de la validité d’une touche <Rappel_des_règles_techniques_de_la_validité_d_une_touche>`); les faces latérales de la tête ; le grillage de la face antérieure lorsque la canne le touche dans un axe perpendiculaire, l’attaquant se trouvant sur le côté du défenseur ; le flanc pour les masculins; la jambe.
+
+.. _Description_technique_du_Latéral_croisé:
+
+Description technique du Latéral croisé
+++++++++++++++++++++++++++++++++++++++++
+
+  * Mêmes éléments fondamentaux que ceux du Latéral extérieur (voir :ref:`description technique du Latéral extérieur <Description_technique_du_Latéral_extérieur>`)
+
+.. _Description_technique_du_Brisé:
+
+Description technique du Brisé
+++++++++++++++++++++++++++++++++
+
+  * Trajectoire : verticale.
+  * Mouvement elliptique de la canne :double rotation du poignet. Dans un premier temps, la main décrit une rotation vers l’extérieur de la garde, de la pronation vers la supination (pour un droitier : sens de vissage). Dans un second temps, la main décrit une circumduction verticale de l’avant vers l’arrière, puis de nouveau vers l’avant, retrouvant une position en pronation. 
+  * Détails des rotation et circumduction de la main : partant de la garde (main en pronation, paume vers le bas), la canne commence sa rotation en se dirigeant vers le sol, la main est amenée à l’épaule en se tournant vers l’extérieur de la garde (main en supination), la main s’ouvre (paume vers le haut) pour permettre le passage de la canne vers le bas (la canne est alors tenue, durant un court passage, entre le pouce et l’index, pointe en bas). Pour finir, la canne remonte derrière l’axe vertébral grâce à sa vitesse de rotation, la main se referme sur l’arme et revient en position de pronation dans sa fin de trajet vers la cible.
+  * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups verticaux extérieurs moulinés <paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_extérieurs_moulinés>`
+  * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
+  * Cible : (voir :ref:`rappel des règles techniques de la validité d’une touche <Rappel_des_règles_techniques_de_la_validité_d_une_touche>`); le dessus de la tête.
+
 .. _Description_technique_de_l_Enlevé:
 
 Description technique de l’Enlevé
 ++++++++++++++++++++++++++++++++++
 
+  * Trajectoire : verticale.
+  * Terminaison du coup : horizontale. En pratique, elle est obliquée vers la cible.
+  * Mouvement elliptique de la canne : double rotation du poignet. Le déroulement des rotation et circumduction emprunte le sens inverse du Brisé. Au moment de la frappe, à la différence du Brisé, la main peut s’orienter suivant différentes positions qui peuvent aller de la pronation à la supination (voir :ref:`les coups (observations) <Les_coups_Observations>`).
+  * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups verticaux extérieurs moulinés <paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_extérieurs_moulinés>`
+  * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
+  * Fente : voir :ref:`la fente <La_fente>`
+  * Cible : (voir :ref:`rappel des règles techniques de la validité d’une touche <Rappel_des_règles_techniques_de_la_validité_d_une_touche>`); la jambe.
+
+.. _Description_technique_du_Croisé_tête:
+
+Description technique du Croisé-tête
+++++++++++++++++++++++++++++++++++++
+
+  * Trajectoire : verticale.
+  * Mouvement elliptique de la canne : simple rotation du poignet. La main décrit une circumduction verticale de l’avant vers l’arrière, puis de nouveau vers l’avant. Durant le mouvement complet du coup, la main reste fermée sur l’arme. Au moment de la frappe, la main peut s’orienter suivant différentes positions qui peuvent aller de la pronation à la supination (voir :ref:`les coups (observations) <Les_coups_Observations>`). Le Croisé-tête a la particularité de s’effectuer le bras tendu tout au long de son mouvement (quelques degrés de flexion étant communément acceptés). Ceci afin de favoriser le passage de la main armée derrière l’axe vertébral et de bien amener la frappe par dessus la tête.
+  * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups verticaux croisés intérieurs <paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_croisés_intérieurs>`
+  * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
+  * Cible : (voir :ref:`rappel des règles techniques de la validité d’une touche <Rappel_des_règles_techniques_de_la_validité_d_une_touche>`); le dessus de la tête.
+
 .. _Description_technique_du_Croisé_bas:
 
 Description technique du Croisé-bas
 ++++++++++++++++++++++++++++++++++++
+
+  * Trajectoire : verticale.
+  * Terminaison du coup : horizontale. En pratique, elle est obliquée vers la cible.
+  * Mouvement elliptique de la canne : simple rotation du poignet. Le déroulement de la circumduction emprunte le sens inverse du Croisé-tête. Mêmes autres éléments fondamentaux que pour le Croisé-tête (voir :ref:`description technique du Croisé tête <Description_technique_du_Croisé_tête>`)
+  * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups verticaux croisés intérieurs <paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_croisés_intérieurs>`
+  * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
+  * Fente : voir :ref:`la fente <La_fente>`
+  * Cible : (voir :ref:`rappel des règles techniques de la validité d’une touche <Rappel_des_règles_techniques_de_la_validité_d_une_touche>`); la jambe.
+
+.. _Description_technique_des_voltes:
+
+Description technique des voltes
++++++++++++++++++++++++++++++++++
+
+**Définition :** c’est un mouvement de rotation complète qu’un tireur exécute sur lui-même. La volte peut accompagner une attaque, une défense ou un simple déplacement. Hormis l’intérêt d’obtenir un décalage, un débordement (voir :ref:`les déplacements (définition)<Les_déplacements>`) ou un changemet de côté d’une attaque, la volte présente l’atout majeur de transformer un mouvement discontinu en mouvement ininterrompu. En effet, l’exécution du Latéral croisé ou du Latéral extérieur sans volte est réalisée dans un mouvement d’aller (armé) et de retour (vers la cible), ce qui limite la vitesse de ces deux coups latéraux. Par conséquent, la volte, n’engageant qu’un mouvement à sens unique, rend illimitée la vitesse des coups qu’elle accompagne.
+
+**Observations :**
+
+  * Pendant l’exécution d’une volte, le tireur doit quitter le moins longtemps possible, du regard, son adversaire (surveillance permanente). Cela implique que la tête n’accompagne pas les épaules. Il faut, dans un premier temps, amorcer la volte en laissant la tête face à l’adversaire puis, lorsque la volte est à moitié réalisée, finir de tourner la tête pour fixer de nouveau l’adversaire avant que la volte s’achève.
+  * Les voltes doivent se terminer sur un armé et un coup réglementaires. Ex. : pour un droitier, une volte à droite (sans changement de main) peut s’achever par un Latéral croisé, un Croisé-tête ou un Croisé-bas qui auront été préalablement correctement armés. Ceci afin d’éviter que les voltes ne génèrent, dans l’élan qu’elles produisent, des coups non codifiés.
+
+.. _Description_des_configurations_tactiques_en_Canne_de_Combat_et_Bâton:
+
+Description des configurations tactiques en Canne de Combat et Bâton
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Définition :** dans une situation de combat, sont tactiques les comportements directs (offensifs et défensifs) et indirects (influence psychologique) qui génèrent une vulnérabilité chez l’adversaire en créant à son encontre, à dessein, des opportunités de touches immédiates et/ou ultérieures.
+
+Description des différents types de tactiques
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Les particularités des tactiques en Canne de Combat et Bâton reposent sur les contraintes techniques inhérentes à ces disciplines : utilisation d’une arme, configuration de l’aire de combat, armé, fente, trajectoires des coups, durée des assauts, règlement (touche effective mais non violente, considération des surfaces de frappe autorisées, obligation de n’atteindre les cibles qu’avec le quart supérieur de l’arme, respect du principe de parade ou d’esquive/riposte nécessité d’avoir un angle ouvert entre la ligne des épaules et le bras muni de l’arme au moment de la frappe). Cependant, parmi ces contraintes, deux sont déterminantes pour l’orientation que prendront les différentes phases tactiques. En effet, l’armé et la fente ont un effet d’annonce sur les coups, ce qui rend difficile l’exploitation d’opportunités directes (touche réalisée avec un seul coup direct) dans le cas de confrontations de tireurs d’un niveau équivalent. Par conséquent, bien que les schémas tactiques soient semblables à ceux d’autres sports de combat, on s’oriente vers la prépondérance des enchaînements (fixation de l’adversaire sur différentes positions défensives successives afin de créer des ouvertures), des feintes (faux signaux) et du contre (parade ou esquive/riposte). La diversité des modalités tactiques des enchainements, feintes et contres s’échantillonnera selon d’autres variables que sont les changements de rythmes, de déplacements tactiques, l’influence psychologique, etc.
+
+Les tactiques peuvent se classer suivant leur degré de préméditation (anticipation du comportement adverse). On distingue deux types fondamentaux de tactiques :
+
+  * **Tactiques du premier degré, l’adaptation :** c’est l’exploitation directe, dans un premier temps, des lacunes et des défaillances de l’adversaire et/ou la création chez l’adversaire d’une adaptation (accoutumance) en prévoyant de la surprendre par une désadaptation (tactiques du second degré).
+
+    - **Lacunes :** positions inopérantes des appuis (exemple : déséquilibre, ancrage sur un appui) ; lenteur ; style stéréotypé ; défense aléatoire ; déplacements inopportuns (exemple : mauvaise appréciation des distances de frappe) ; imprécision de l’attaque et/ou de la défense ; désorientation (exemple : positions fréquentes en zone neutre) ; etc.
+    - **Défaillances :** découragement ; fatigue physique, etc.
+    - **Réponses tactiques du premier degré :** changements de rythme des coups, des enchaînements et des déplacements ; diversité de l’attaque et de la défense (exemple : variation de la composition, de la durée, de la densité et de la fréquence des enchaînements) ; utilisation d’attaques privilégiées (exemple : coup favori ayant un degré de réussite élevé, ex : le spécial) ; créations d’ouvertures (exemple : décalages, débordements, fixations par enchaînements de coups) ; feintes (faux signaux d’attaque ou de défense, exemple : transformations d’un coup en un autre, changement de cible au dernier instant) ; contrôle de l’aire de combat (exemple : conservation du centre de l’aire pour bénéficier du plus grand nombre d’options de déplacement possible) ; fragilisation mentale (exemple : démoralisation exercée sur l’adversaire en offrant à ses attaques une défense imperméable et/ou en ripostant efficacement sur chacune de ses attaques) ; etc. Au-delà de l’effet de surprise immédiat que peuvent avoir les tactiques du premier degré, l’adaptation adverse qu’elles générent prépare l’effet de surprise de la désadaptation (tactiques du second degré). Cela signifie que les tactiques du premier degré se construisent sur deux niveaux.
+
+  * **Tactiques du second degré, la désadaptation :** c’est la création, dans un deuxième temps, lors de la désadaptation, de nouvelles incertitudes afin de provoquer, chez l’adversaire, une instabilité et une incoordination.
+
+    - **Incertitudes :** attitudes auxquelles l’adversaire ne s’attend pas, ou faux messages sur des attitudes auxquelles l’adversaire s’attend (exemple : dans un premier temps, durant une phase d’adaptation plus ou moins longue, le tireur qui a l’initiative de la désadaptation amoindrit volontairement l’efficience de son spécial afin que son adversaire ne se méfie plus de ce coup d’habitude redoutable qui sera réutilisé efficacement plus tard.
+    - **Instabilité :** défaillance des ressources mentales (exemple : perte de lucidité et/ou apparition de mouvements d’humeur) ; mauvaise lecture de l’opposition ; hésitations ; évitement du combat ; etc.
+    - **Incoordination :** surexcitation ou inhibition (exemple : excès ou absence de réactions à certaines stimulations) ; déplacements inappropriés (exemple : phases d’anti-jeu, reculs exagérés) ; sclérose des systèmes offensifs et défensifs ; instabilité ou précipitation provoquant le non respect d’un ou plusieurs critères de validité des touches (exemple : maîtrise inconstante de la précision et de la puissance des coups) ; mauvaise évaluation des dimensions de l’aire de combat (exemple : sorties d’aire) ; etc.
+    - **Réponses tactiques du second degré :** la désadaptation ne sera opérationnelle que si l’adaptation (tactiques du premier degré) a fonctionné. Les réponses tactiques du second degré seront des changements d’attitudes d’un tireur provoquant des changements d’attitude chez son adversaire. Exemple : retrait volontaire de techniques offensives et/ou défensives pour les faire réapparaître plus efficacement ultérieurement (exemple : dans un premier temps, durant une phase d’adaptation plus ou moins longue, le tireur qui a l’initiative de la désadaptation enlève de son panel offensif le contre afin de provoquer un relâchement dans les sorties d’attaque de son adversaire, puis le tireur réintroduit le contre qui bénéficie alors de la déconcentration de son adversaire dans ce secteur du combat). Autre exemple : tous les changements de rythme sont efficaces et notamment le ralentissement de certains coups (exemple : dans un premier temps, durant une phase d’adaptation plus ou moins longue, le tireur qui a l’initiative de la désadaptation porte des attaques rapides, sans enchaînement, avec un seul coup à chaque attaque, ce qui favorise la parade/riposte rapide et systématique de son adversaire, puis le tireur ralentit la phase finale de son coup et touche la surface de frappe qui a été découverte par l’exécution réflexe de la parade/riposte de son adversaire. Autre exemple : la désadaptation de position peut entraîner la désorganisation de l’attaque adverse (exemple : dans un premier temps, durant une phase d’adaptation plus ou moins longue, le tireur qui a l’initiative de la désadaptation recule systématiquement sur les attaques de son adversaire, puis subitement il ne recule plus, son adversaire ayant pris l’habitude d’avancer en attaquant, obtient une position trop proche qu’il tente de rétablir en reculant à son tour. Ce recul réactif de l’adversaire, un peu désorganisé, produit une instabilité de ses appuis, favorisant une contre-attaque.
+
+Pour comprendre la différence qui existe entre l’absence de tactique (mouvements techniques), la tactique du premier degré (l’adaptation) et la tactique du second degré (la désadaptation), prenons l’exemple de l’utilisation d’un spécial. Dans le premier cas (absence de tactique), le spécial est exécuté directement en profitant simplement des qualités techniques, intrinsèques de ce coup. Dans le deuxième cas (tactique du premier degré) le spécial est exécuté en profitant des lacunes et des défaillances existantes chez l’adversaire. Dans le troisième cas (tactique du second degré) le spécial est exécuté après la création d’une instabilité chez l’adversaire.
+
+Description des paramètres technico-tactiques
+++++++++++++++++++++++++++++++++++++++++++++++
+
+**Définition :** pour comprendre la progression et le niveau d’application des différents stades tactiques dont celui du technico-tactique, ils ont été classés volontairement comme suit : niveau technique, niveau tactique du premier degré, niveau tactique du second degré, niveau stratégique.
+
+Dans une situation de combat, un geste (offensif ou défensif) est simplement technique lorsqu’il n’est pas intégré à un processus de réflexion secondaire (on peut parler alors de l’intelligence initiale d’un coup ou d’intention première, celle qui le déclenche). Il s’agit, par exemple, de tous les coups ou mouvements automatiques comme les parades ou les esquives/ripostes simples et directes dont le choix ne varie pas selon la position finale de l’attaque, mais seulement d’après sa position initiale.
+
+Dans une situation de combat, un geste (offensif ou défensif) devient technico-tactique lorsqu’il a un prolongement tactique (adadaption ou désadaptation) issu d’un processus de réflexion secondaire (on peut parler alors de l’intelligence finale d’un coup ou d’intentions secondaires, celle qui l’ajuste sur la cible. Il s’agit de coups dont l’objectif peut varier en cours d’exécution, comme par exemple (en situation d’attaque) : un changement de cible juste avant la frappe (exécution d’un coup pour toucher la jambe arrière puis, au dernier moment, affectation de la touche sur la jambe avant en passant de la fente avant à la fente arrière). Autre exemple : en situation de défense) un changement de défense juste avant une frappe feintée (complément d’une position définitive en y ajoutant une défense supplémentaire, exemple : esquive en jambe doublée d’une parade en tête ou vice-versa).
+
+L’opportunisme des gestes technico-tactiques se situe entre l’automatisation des gestes techniques et l’anticipation des gestes tactiques. Cette opportunisme s’appuie sur des attitudes de grande vigilances à l’égard des comportements adverses et constitue la base des actions tactiques.
+
+Description des paramètres stratégiques
+++++++++++++++++++++++++++++++++++++++++
+
+**Définition :** la stratégie d’un combat correspond à l’ensemble des tactiques. La stratégie est la dimension tactique générale, l’idée directrice d’un combat qui englobe l’analyse des réactions et des contre-réactions de l’adversaire et ses capacités d’en moduler son champ opréationnel (innovations tactiques : feintes issues d’un déplacement acrobatique). Les tactiques peuvent changer au cours d’un combat alors que la stratégie reste normalement immuable. Exemple : cadre d’une stratégie de combat qui consiste à empêcher l’adversaire de s’exprimer dans ce qu’il sait le mieux faire (exemple : annihiler ses enchaînements de coups rapides et variés). Tout d’abord, les paramètres techniques seront l’exécution parfaite des mouvements défensifs (parades et esquives) selon les attaques pour favoriser et augmenter le choix de la riposte éventuelle, puis les paramètres tactiques du premier degré (adaptation) seront de riposter avec un seul coup à chacune des attaques de l’adversaire, enfin les paramètres tactiques du second degré (désadaptation) seront de prolonger les ripostes avec des enchaînements afin de reprendre systématiquement l’initiative de l’attaque et d’empêcher ainsi l’adversaire de développer ses enchaînements.
+
+**Important :** les gestes ou les actions tactiques qui consistent à désarmer volontairement l’adversaire sont interdits. Cependant, ils sont rarement sanctionnés car il est difficile de déterminer s’il s’agit d’un acte volontaire ou non.
+
+S’il est concevable, sur le plan de l’efficacité du combat, de désarmer l’adversaire, sur le plan de la philosophie du combat, il est préférable de prendre avantage grâce à des techniques et des tactiques fondées sur le gain que rapporte une touche et non sur celui que rapporte la pénalité d’un lâcher de canne adverse.
+
+**Conclusion :** les comportements tactiques peuvent être déjoués par l’adversaire et même être le fruit d’une manipulation tactique de l’adversaire. La mise en abîme de ces tactiques qui s’influencent les unes les autres peut conduire les tireurs à revenir à la simplicité d’une technique fondamentale qu’ils connaissent bien. Toutefois, cet abandon passager de toutes attitudes tactiques est lui aussi une tactique...
 
 .. _Methodologie_baton:
 
