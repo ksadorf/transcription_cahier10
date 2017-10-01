@@ -381,6 +381,8 @@ gardes (en pratique, bien que leur garde de prédilection
 reste toujours leur garde de référence initiale).
 
 
+.. _Arme_canne:
+
 L'armé
 ~~~~~~~
 
@@ -555,7 +557,7 @@ Paramètres techniques de l’armé particuliers aux coups horizontaux intérieu
   1. Dans le temps des mouvements amorcés ci-dessus (voir :ref:`paramètres techniques de l’armé communs à tous les coups <Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`), la main munie de l’arme s’engage du côté de l’armé choisi, à la hauteur de la tempe, puis le bras armé est positionné derrière l’axe vertébral (angle d’environ 90° formé par le bras et l’avant-bras, bras à l’horizontale). Cet angle de 90° est optimal pour obtenir la meilleure vitesse de transmission du mouvement. En effet, un bras trop tendu augmente le levier et sature l’effort au développement de la frappe ; un bras trop fermé réduit le levier et raccourcit la course d’élan de l’ensemble propulsé (bras, canne).
   2.  Ce mouvement d’armé s’achève lorsque la canne est positionnée, proche de l’axe vertébral, la pointe dirigée vers l’adversaire (buste de profil) afin de préparer la canne à une circumduction complète qui correspond à sa course d’élan optimale. Dans cette position d’armé, le tireur place la partie supérieure de sa canne (vers la pointe) contre le haut de sa tempe. Une position trop basse (au niveau du cou) gênerait le passage de l’arme dans sa circumduction. Une position trop haute (au dessus de la tête) transformerait le coup en un mouvement circulaire ininterrompu empêchant la fixation de l’armé et le bénéfice du mouvement de piston plus direct et plus rapide.
 
-**Observations :** on considère donc que l’armé du Latéral croisé et du Latéral extérieur est fixe. Ce qui autorise le tireur à marquer un arrêt en position d’armé. 
+**Observations :** on considère donc que l’armé du Latéral croisé et du Latéral extérieur est fixe. Ce qui autorise le tireur à marquer un arrêt en position d’armé.
 
   3. Pour l’armé du Latéral croisé, la main armée est en position latérale (paume dirigée vers l’intérieur de la garde, vers l’axe vertébral).
   4. Pour l’armé du Latéral extérieur, la main armée est positionnée en pronation, voire légèrement latéralisée (paume dirigée vers l’extérieur de la garde, à l’opposé de l’axe vertébral).
@@ -573,7 +575,7 @@ Paramètres techniques de l’armé particuliers aux coups verticaux extérieurs
 Cette position d’armé semi-fixe correspond au moment où la main armée finit son recul derrière l’axe vertébral avant d’entamer son retour vers la cible. A ce moment là, l’orientation de la canne n’est pas imposée, elle est positionnée selon la progression du moulinet. Les hanches et les épaules s’alignent dans l’axe de combat (de profil) afin de tirer la main armée derrière l’axe vertébral.
 
   2. L’autre méthode qui consiste à armer le Brisé et l’Enlevé à la hauteur de la hanche, est tolérée. Toutefois, l’armé à l’épaule de ces deux mouvements est celui qu’il convient d’adopter pour les raisons suivantes :
-  
+
       * Concernant le Brisé, les phases d’armé et de retour vers la cible décrivent le va-et-vient du mouvement de piston. Le Brisé a donc un effet coup de poing direct qu’il est plus efficace de faire partir de l’épaule. La distance qui va de l’armé épaule à la cible (dessus de la tête) est la plus courte. En outre, le Brisé armé à la hanche, arrive souvent sabré (angle formé entre la canne et le bras, au moment de la frappe, lorsque la main a de l’avance sur la pointe de la canne, ce que sanctionne le règlement d’arbitrage).
       * Concernant l’Enlevé, les phases d’armé et de retour vers la cible décrivent le va-et-vient elliptique du mouvement de bielle-piston. Pour l’Enlevé, l’armé à la hanche offre une trajectoire de frappe plus directe (la cible étant en ligne basse). Cependant, il rapproche le mouvement du sol lors du retour de l’arme vers la cible, obligeant le tireur à se fendre après l’impact, ce que sanctionne le règlement d’arbitrage qui stipule que les coups en ligne basse doivent être accompagnés d’une fente, la fente devant être achevée au moment de l’impact en jambe et non après. En outre, tactiquement, l’armé épaule identique pour le Brisé et l’Enlevé permet une feinte en offrant la possibilité d’ intervertir ces deux coups au moment de leur retour vers la cible, ou de transformer l’armé épaule du Brisé ou de l’Enlevé en armé de Latéral extérieur.
 
@@ -609,6 +611,9 @@ Depuis la réactualisation de la Canne et du Bâton dans les années 1970, l’u
 Il n’est pas autorisé de frapper en ligne haute ou médiane avec une fente et de frapper en ligne basse sans fente. La frappe en ligne basse, accompagnée d’une flexion des deux jambes, est autorisée dans un seul cas (voir :ref:`paramètres techniques de la flexion <Paramètres_techniques_de_la_Flexion>`). La contrainte de la fente, comme celle de l’armé, ont su trouver une réponse tactique. Par exemple : la fente peut être utilisée comme une esquive offensive sur un coup reçu en ligne haute ou médiane.
 
 **Conclusion :** les critères réglementaires de la fente (voir :ref:`la fente <La_fente>`) réclament une grande mobilisation musculaire qui fait de la fente un mouvement de grande tension dont la mauvaise exécution présente des contre-indications physiologiques. L’application des paramètres énoncés ci-après, évitera l’altération de l’intégrité physique des tireurs et favorisera, dans le respect des règles, l’efficacité des coups dans leur amplitude, rapidité et mise à distance des frappes. Par conséquent, l’échauffement spécifique, préparatoire à l’exécution des fentes (hanches en abduction) doit être très progressif et centré sur les étirements plus que sur la musculation. Il doit tenir compte de la physiologie du pratiquant. Cet échauffement, dans la mesure du possible, doit être personnalisé suivant l’entraînement qui lui succède, et individualisé suivant l’échantillonnage du public auquel il est adressé. Les muscles les plus sollicités dans l’exercice de la fente sont : les mollets (avec le tendon d’Achille), les adducteurs, les ischio-jambiers jumeaux, les tenseurs du fascia lata, le courturier, le pectiné, le pyramidal, l’obturateur interne, les quadriceps et les fessiers. Dans la progression de l’apprentissage des fentes, il est conseillé de n’aborder la fente arrière (position d’écart facial de grande tension) qu’après l’apprentissage complet de la fente avant (position d’écart entéro-postérieur) de moindre tension.
+
+
+.. _fente_comuns:
 
 Paramètres techniques communs à toutes les fentes
 ++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -664,10 +669,10 @@ Paramètres techniques de la Fente arrière
   4. Le pied avant de la jambe en extension est en contact plantaire avec le sol et s’oriente naturellement de 45° vers l’intérieur de la fente.
   5. **Remarque :** en Fente arrière uniquement, la position qui consiste à placer le pied avant de la jambe en extension à la verticale, pointe du pied vers le haut et talon d’Achille au sol est déconseillée. Tactiquement, cette position, dans laquelle l’appui de la jambe en extension n’est pas en contact plantaire avec le sol, rend cette jambe inopérante dans la dynamique qui suit la fente. Physiologiquement, cette position raidit la jambe avant dans une tension excessive, bien que le déverrouillage vers le haut de l’articulation soit facilité par cette position.
   6. Le bras non muni de l’arme :
-     
+
      * est positionné entre les jambes (bras rentrant), le coude vers le sol, appuyé contre l’intérieur du genou de la jambe arrière fléchie pour ramener du poids sur l’appui avant, rééquilibrant les appuis et les rendant plus opérationnels dans la motricité qui suit la fente.
      * se positionne en retrait (bras sortant, devant ou sur le côté du buste) (voir :ref:`positionnement de la partie haute et de l’arme (point 8)<Position_garde_haute>`) pour mieux stabiliser la fente arrière (surtout pour les débutants).
-       
+
 
 .. _Paramètres_techniques_de_la_Flexion:
 
@@ -706,7 +711,7 @@ Les déplacements
      * **Le bond ou saut :** déplacement vertical et/ou horizontal avec décollement des appuis, surtout utilisé en esquive riposte ou en progression rapide vers une position d’attaque ou de défense. Les coups aériens compensent la perte des appuis par la fixation du bassin en position sautée à partir de laquelle la forte mobilisation des muscles de la ceinture abdominale transmet le mouvement de la frappe comme par exemple : un tir sauté au handball. Ce déplacement peut être donc utilisé à distance de combat, même si les appuis ne sont pas opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
      * **La fente ou flexion :** déplacement en position basse qui respecte les paramètres de la fente (voir :ref:`la fente <La_fente>`) ou de la flexion (voir :ref:`paramètres techniques de la flexion <Paramètres_techniques_de_la_Flexion>`). Ce déplacement peut être utilisé à distance de combat, car les appuis restent opérationnels (voir :ref:`positionnement de la partie basse <Position_garde_appui>`).
      * **Le déplacement acrobatique :** en dehors du salto classé dans les sauts, on observe surtout des figures acrobatiques avec appui des mains au sol comme la roue, la rondade ou le flip. Ces déplacements n’ont pas seulement un effet démonstratif mais peuvent être réellement efficaces (voir :ref:`positionnement de la partie basse <Position_garde_appui>`) et être utilisés à distance de combat.
-  
+
   4. Plusieurs types de déplacements sont parfois mêlés, comme : la volte sautée ; la marche sautée ; la fente en pas chassés, etc. La plupart de ces déplacements peuvent s’achever sur un changement de garde, ce qui augmente d’autant le nombre de positions qui en résultent.
   5. **Remarque :** sachant que la synergie de tout mouvement, en dehors des sauts, part des appuis, il est nécessaire pour obtenir une motricité réactive, de conserver les appuis en contact avec le sol ou près du sol. Ce qui signifie que les différents pas devront être plutôt glissés qu’enjambés.
 
@@ -732,9 +737,9 @@ Les parades
 
     * Les parades croisées (du côté intérieur de la garde).
 
-      * En Canne de Combat : elles sont du côté des armés des coups croisés, côté intérieur de la garde. 
+      * En Canne de Combat : elles sont du côté des armés des coups croisés, côté intérieur de la garde.
       * Au Bâton : les parades du côté des armés des coups croisés, sont paradoxalement du côté extérieur de la garde, mais conservent leur dénomination de parades croisées (voir :ref:`la garde au batôn (important) <La_garde_baton>`).
-    
+
     Par conséquent, en Canne de Combat et en Bâton, les parades croisés sont à gauche de la garde, pour un droitier.
 
   3. Pour les parades extérieures ou croisées en lignes haute ou médiane parant les coups horizontaux, les deux positions, pointe de l’arme vers le haut (main au niveau de la ceinture) ou vers le bas (main au niveau de la partie supérieure du crâne), sont possibles en fonction de l’orientation offensive ou défensive qui est donnée à la suite de la parade.
@@ -745,7 +750,7 @@ Les parades
     * Positionner la moitié supérieure de la canne (partie de l’arme qui arrête le coup) près du corps du défenseur pour protéger le mieux possible la surface de frappe sur les différents angles d’attaque.
     * Provoquer l’échappement de la canne qui exécute l’attaque. Ceci dans un glissement vers la pointe de la canne qui pare afin que la canne de l’attaquant ne revienne pas sur la main du défenseur.
     * Favoriser l’amorce de l’armé à partir de la parade en limitant le déplacement de la pointe de l’arme pendant la transition de la parade en armé. Cette fixation de la pointe de l’arme rend également plus rapide le passage d’une parade à une autre. Exemple : lorsque l’on passe d’une parade extérieure flanc (pointe en haut) à une parade croisée flanc (point en haut), hormis la base de l’arme qui se déplace avec la main et les hanches qui l’accompagnent d’un côté à l’autre de la garde, la pointe de la canne se dépace très peu latéralement, restant près de l’axe vertébral, l’arme changeant d’inclinaison de la première parade à la deuxième.
-  
+
   7. Le trajet qu’emprunte la canne pour aller de la garde à la parade croisée basse peut suivre différentes trajectoires (avant, arrière ou latérale) en fonction du degré d’anticipation de l’attaque et de l’orientation offensive ou défensive qui sera donnée à la suite de la parade.
 
     **Exemple :** lorsque la parade croisée basse (pointe en bas) arrive par l’avant ou le côté intérieur de la garde (par le côté extérieur : risque de retard de la parade), la riposte sera naturellement un croisé-tête, un latéral croisé ou un croisé-bas suivant la position de la main munie de l’arme en parade (paume tournée vers l’extérieur de la garde : riposte en croisé-tête ; paume tournée vers l’intérieur de la garde : riposte en latéral croisé ou en croisé-bas). Lorsque la parade croisée basse (pointe en bas) arrive par l’arrière de la garde, la riposte sera naturellement un coup extérieur (brisé, enlevé, latéral extérieur) ou un croisé-bas s’il est suffisamment anticipé.
@@ -772,15 +777,17 @@ Les esquives
 
       * Retrait du buste ou du corps entier, notamment par changement de garde en reculant le pied avant, suffisamment pour qu’il se positionne derrière le pied arrière.
       * Retrait d’une jambe en la déplaçant horizontalement ou verticalement, notamment en adoptant la position d’équilibre sur un pied ou la position de fente ou de la flexion pour l’esquive d’un coup en ligne haute.
-    
+
     * Esquives totales avec déplacement des deux appuis dont les débordements (voir :ref:`Les déplacements (définitions) <Les_déplacements>`) et les changements de garde (voir :ref:`caractéristiques techniques des changements de garde <Caractéristiques_techniques_des_changements_de_garde>` et :ref:`Les déplacements (point 4) <Les_déplacements>`) :
 
       * Retrait du corps entier par déplacement des deux appuis (déplacements latéraux : vers la droite ou la gauche ; en profondeur : vers l’arrière ou l’avant ; en biais : déplacements desaxés). La progression pénétrante qui projette le défenseur vers l’avant jusqu’à le positionner dans le dos de l’attaquant comporte une phase d’anti-jeu (règlement d’arbitrage). Cette phase d’anti-jeu est constatée lorsque le défenseur s’avance, dans un premier temps, vers l’attaquant avant de passer derrière lui. En effet, la règle stipule qu’une avancée du défenseur qui empêche l’attaquant de toucher la cible avec le quart supérieur de la canne est qualifiée d’anti-jeu, sauf lorsque ce déplacement vers l’avant est suivi, dans un même mouvement, d’une attaque à distance exécutée par le défenseur.
       * On trouve également dans les esquives totales par déplacement des deux appuis : les voltes et toutes les esquives sautées, simples ou acrobatiques (voir :ref:`Les déplacements (point 3) <Les_déplacements>`).
 
 
-Les coups
-~~~~~~~~~~
+.. _Les_coups_canne:
+
+Description technique des coups de la Canne de Combat
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _Rappel_des_règles_techniques_de_la_validité_d_une_touche:
 
@@ -822,7 +829,8 @@ Observations
 +++++++++++++
 
   * Pour tous les coups décrits ci-après, la rotation du poignet, à l’issue de la phase d’armé, doit impérativement s’effectuer derrière l’axe vertébral et, de la même façon, environ 80 % de la circumduction totale de la canne sont réalisés derrière l’axe (sauf au Bâton : voir :ref:`description technique du latéral extérieur <Description_technique_du_Latéral_extérieur_baton>`, :ref:`description technique du latéral croisé <Description_technique_du_Latéral_croisé_baton>`, :ref:`description technique du brisé <Description_technique_du_Brisé_baton>`, :ref:`description technique du l'Enlevé <Description_technique_de_l_Enlevé_baton>`,  :ref:`description technique du Croisé-tête <Description_technique_du_Croisé_tête_baton>` et :ref:`description technique du Croisé-bas <Description_technique_du_Croisé_bas_baton>`)
-  * La position de la main munie de l’arme, au moment de l’impact, varie selon les trajectoires utilisées et selon l’amorce la plus favorable pour le coup suivant. Exemples : au moment de la frappe, la position de la main en supination favorise l’enchaînement du Croisé-bas ou du Latéral croisé (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en pronation favorise l’enchaînement du Latéral extérieur ou du Croisé-tête (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en position intermédiaire, la paume tournée vers l’intérieur de la garde, le pouce vers le haut, favorise l’enchaînement de tous les coups sauf du Croisé-tête (position défavorable de la main nécessitant un retournement complet de la main pour l’amorce du Croisé-tête) ; la position de la main en position intermédiaire, la paume tournée vers l’extérieur de la garde, le pouce vers le bas, favorise l’enchaînement du Croisé-tête, du Latéral extérieur ou de l’Enlevé (position défavorable de la main pour l’amorce rapide des autres coups), mais elle est déconseillée car elle présente des contre-indications physiologiques lorsque les coups sont exécutés à vitesse rapide. 
+
+  * La position de la main munie de l’arme, au moment de l’impact, varie selon les trajectoires utilisées et selon l’amorce la plus favorable pour le coup suivant. Exemples : au moment de la frappe, la position de la main en supination favorise l’enchaînement du Croisé-bas ou du Latéral croisé (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en pronation favorise l’enchaînement du Latéral extérieur ou du Croisé-tête (position défavorable de la main pour l’amorce rapide des autres coups) ; la position de la main en position intermédiaire, la paume tournée vers l’intérieur de la garde, le pouce vers le haut, favorise l’enchaînement de tous les coups sauf du Croisé-tête (position défavorable de la main nécessitant un retournement complet de la main pour l’amorce du Croisé-tête) ; la position de la main en position intermédiaire, la paume tournée vers l’extérieur de la garde, le pouce vers le bas, favorise l’enchaînement du Croisé-tête, du Latéral extérieur ou de l’Enlevé (position défavorable de la main pour l’amorce rapide des autres coups), mais elle est déconseillée car elle présente des contre-indications physiologiques lorsque les coups sont exécutés à vitesse rapide.
 
     En outre, la position de la main, au moment de la frappe, lorsque la canne est dans le prolongement du bras, doit tenir compte du confort physiologique du bras muni de l’arme. Les positions de la main qui respectent le mieux la physiologie et la continuité globale des mouvements, au moment de la frappe, sont celles qui sont comprises entre la position intermédiaire (paume tournée vers l’intérieur de la garde, pouce dirigé vers le haut) et la position de la main en pronation.
 
@@ -858,7 +866,7 @@ Description technique du Brisé
 ++++++++++++++++++++++++++++++++
 
   * Trajectoire : verticale.
-  * Mouvement elliptique de la canne :double rotation du poignet. Dans un premier temps, la main décrit une rotation vers l’extérieur de la garde, de la pronation vers la supination (pour un droitier : sens de vissage). Dans un second temps, la main décrit une circumduction verticale de l’avant vers l’arrière, puis de nouveau vers l’avant, retrouvant une position en pronation. 
+  * Mouvement elliptique de la canne :double rotation du poignet. Dans un premier temps, la main décrit une rotation vers l’extérieur de la garde, de la pronation vers la supination (pour un droitier : sens de vissage). Dans un second temps, la main décrit une circumduction verticale de l’avant vers l’arrière, puis de nouveau vers l’avant, retrouvant une position en pronation.
   * Détails des rotation et circumduction de la main : partant de la garde (main en pronation, paume vers le bas), la canne commence sa rotation en se dirigeant vers le sol, la main est amenée à l’épaule en se tournant vers l’extérieur de la garde (main en supination), la main s’ouvre (paume vers le haut) pour permettre le passage de la canne vers le bas (la canne est alors tenue, durant un court passage, entre le pouce et l’index, pointe en bas). Pour finir, la canne remonte derrière l’axe vertébral grâce à sa vitesse de rotation, la main se referme sur l’arme et revient en position de pronation dans sa fin de trajet vers la cible.
   * Armé : voir :ref:`paramètres techniques de l'armé particuliers aux coups verticaux extérieurs moulinés <paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_extérieurs_moulinés>`
   * Retour vers la cible : voir :ref:`les coups (observations) <Les_coups_Observations>`
@@ -964,50 +972,692 @@ S’il est concevable, sur le plan de l’efficacité du combat, de désarmer l�
 
 **Conclusion :** les comportements tactiques peuvent être déjoués par l’adversaire et même être le fruit d’une manipulation tactique de l’adversaire. La mise en abîme de ces tactiques qui s’influencent les unes les autres peut conduire les tireurs à revenir à la simplicité d’une technique fondamentale qu’ils connaissent bien. Toutefois, cet abandon passager de toutes attitudes tactiques est lui aussi une tactique...
 
+
+
+
 .. _Methodologie_baton:
 
 Méthodologie des techniques du Batôn
 -------------------------------------
+
+
+**Le Bâton, une histoire de mains**
+
+Le Bâton Fédéral se distingue au travers
+de cinq caractéristiques qui lui sont propres:
+les proportions et l’essence de l’arme, la prise de mains (les
+deux mains en pronation, pouces dirigés l’un vers l’autre),
+l’armé, la fente, les trajectoires des coups.
+
+.. rubric:: Proportions et l’essence de l’arme
+
+À l’époque, d’après certains manuels du 19 :sup:`ème` siècle, la
+taille du bâton pouvait varier selon la taille de son utilisateur
+(du sol au dessous du menton ou du nez). Aujourd’hui, les
+proportions du bâton sont fixes (environ 140cm et 400gr).
+Elles restituent le passé tout en s’étant adaptées aux techniques actuelles.
+Autrefois, les bâtons étaient le plus souvent d’une essence de
+bois dur (néflier, cornouiller, chêne, etc.).
+Aujourd’hui, seul le châtaignier est autorisé dans la
+pratique du Bâton fédéral pour des raisons de densité
+moyenne (équilibre de l’arme), de souplesse et de bonne
+aptitude à la rupture (sécurité à l’impact).
+
+
+.. rubric:: Prise de mains
+
+La particularité de la prise de mains tient essentiellement
+à la position en pronation de la main avant dont le pouce
+est dirigé vers le talon de l’arme, vers la main arrière. En
+revanche, la pronation de la main arrière dont le pouce est
+dirigé vers la pointe de l’arme, vers la main avant, ne diffère
+pas vraiment des positions observées dans d’autres techniques
+de Bâton ancien français ou étranger.
+
+Historiquement, cette position en pronation de la main
+avant semble ne pas avoir une origine unique en lieu et
+en temps. En effet, on retrouve déjà des techniques allemandes
+de maniement de l’épée lourde, recensées par Talhoffer
+(armes médiévales d’Haste) au 15 :sup:`ème` et 16 :sup:`ème` siècle,
+dans lesquelles la main avant en pronation tient la lame en
+son milieu (sur une partie non tranchante) dans les combats
+en corps à corps et les parades.
+
+Beaucoup plus tard, en France, à la fin du 19 :sup:`ème` siècle, on
+trouve dans les techniques militaires de Bâton, décrites par
+Charles Lavauzel, des techniques de corps à corps mentionnant
+parfois la position en pronation de la main avant.
+Toujours à cette époque, Emile André pour la pratique militaire
+du Bâton, et Louis Leboucher et Larribeau pour la pratique
+civile du Bâton, évoquent cette position en pronation
+de la main avant pour les parades.
+En 1915, la méthode d’Hébert « Méthode physique, virile
+et morale », au travers d’illustrations, montre cette prise
+de main en pronation dans la description de piqués et de
+coups de travers (coups qui frappent et repoussent dans le
+même temps).
+
+Dans les années 1970, Maurice Sarry étend cette position
+en pronation de la main avant à l’ensemble des techniques
+du Bâton Fédéral Français.
+La recherche de l’origine de cette position en pronation de
+la main avant passe aussi par l’histoire du Compagnonnage.
+En effet, au cours du 18 :sup:`ème` siècle, les deux principales
+sociétés ou confédérations des Compagnons du Devoir,
+pour des raisons de contrôle de l’offre d’emploi dans cer-
+taines villes, se livraient d’âpres combats avec des bâtons,
+des outils ou leur fameuse canne superbement ouvragée
+(symbole du Compagnonnage).
+
+Certaines gravures montrent, sur ces armes improvisées,
+des positions de mains en pronation qui s’apparentent aux
+positions de préhension de la plupart des outils (ciseau à
+bois, rabot, etc.) ou instruments (rames souvent utilisées
+lors de leurs fréquents déplacements fluviaux, etc.).
+En outre, l’armé profond des coups et la plupart des para-
+des au Bâton commandent naturellement la position des
+deux mains en pronation.
+
+
+.. rubric:: L'armé
+
+L’armé au Bâton obéit, à quelques détails près, aux
+règles et aux paramètres techniques de l’:ref:`armé de la Canne
+de Combat<Arme_canne>`, seulment pour ce qui concerne la main
+directrice (main arrière près du talon). Le transfert des principes
+et des techniques de la Canne de Combat au Bâton
+respecte les préceptes de Joseph Charlemont qui préconisaient
+d’adapter les armés et les coups de la Canne de Combat au Bâton.
+
+.. rubric:: La fente
+
+La fente au Bâton est comparable à celle de la :ref:`Canne de
+Combat<La_fente>`.
+
+
+.. _trajectoires_coups_baton:
+
+.. rubric:: Les trajectoires des coups
+
+Les trajectoires des coups au Bâton sont, comme en
+Canne de Combat, horizontales ou verticales. Dans les
+méthodes de Bâton d’Hébert et de Canne de Charlemont,
+des coups horizontaux et verticaux sont décrits et élargissent
+l’échantillonnage des coups essentiellement obliques
+jusque là. En effet, les trajectoires obliques au Bâton, utilisées
+dans la plupart des techniques de combat anciennes, ont été peu à
+peu réservées au domaine démonstratif
+pour des raisons de sécurité (les parades sur les coups
+horizontaux et verticaux sont plus aisées et moins dangereuses
+que sur les coups obliques).
+
+**Principes fondamentaux :** les paramètres techniques, tactiques
+et physiologiques de la pratique du Bâton Fédéral correspondent
+globalement à ceux de la Canne de Combat.
+Les différences résultent essentiellement de la prise à deux
+mains du Bâton :
+
+   * Les coups piqués (estoc avec la pointe ou le talon de
+     l’arme) en Canne et au Bâton sont uniquement acceptés
+     dans un contexte démonstratif (exemple : reconstitution his-
+     torique) ou dans un contexte d’évaluation technique (exem-
+     ple : compétition technique au Bâton). Étant interdits en
+     combat, les coups piqués ne sont pas codifiés (au Bâton,
+     les combats sont des échanges qui restent très contrôlés,
+     ne donnant pas lieu à une décision de victoire à la touche).
+
+   * Les coups coulissés ou glissés sont assujettis aux tolérances
+     et aux restrictions des coups piqués. Les coups coulissés ou
+     glissés sont des coups de taille réalisés avec le
+     côté de l’arme et sa partie opposée et ne concernent que le
+     Bâton.
+     Exemple : lorsque la position de départ est une prise
+     normale, pointe de l’arme dirigée vers l’adversaire, le tireur
+     fait coulisser son Bâton de façon à atteindre sa cible, latéralement,
+     avec le talon de l’arme (au moment de sa frappe,
+     le tireur ne tient plus alors le bâton du côté du talon mais
+     du côté de la pointe). Il est préférable de doubler un coup
+     coulissé ou glissé pour revenir sur la prise de mains du côté
+     du talon de l’arme.
 
 .. _La_garde_baton:
 
 La garde
 ~~~~~~~~~
 
+Eléments de base : le bâton se tient à deux mains, nommées main directrice et main guide.
+
+   * **La main directrice :** c’est la main qui tient le bâton à son
+     extrémité la plus large (vers le talon), et qui exécute autour
+     de son poignet les circumductions de l’arme comme dans
+     la discipline de la Canne de Combat. Cependant, à l’inverse
+     des :ref:`coups en Canne de Combat<Les_coups_Observations>`, pour
+     tous les coups au Bâton décrits ci-après, la rotation de la main
+     directrice, à l’issue de la phase d’armé, est effectuée devant
+     l’axe vertébral.
+   * **La main de soutien :** c’est la main qui tient le bâton à
+     une distance d’une trentaine de centimètres de la main
+     directrice, vers l’avant. La main de soutien accompagne le
+     bâton dans les trajectoires que conduit la main directrice en
+     coulissant et s’orientant de façon à s’inclure naturellement
+     dans les rotations des mouvements et à maintenir correctement
+     l’arme au moment de la frappe. Pour tous les coups
+     au Bâton décrits ci-après, la rotation de la main de soutien, à l’issue de
+     la phase d’armé, est effectuée derrière l’axe vertébral avant
+     de revenir devant l’axe vertébral dans la phase finale de la
+     frappe (:ref:`Rappel<Les_coups_baton>`).
+
+Les deux mains sont positionnées en pronation sur l’arme,
+les pouces dirigés l’un vers l’autre.
+
+
+.. _Important_garde_baton:
+
+**Important :** quelque soit le type de garde, la main directrice
+est toujours positionnée à l’arrière de la garde.
+
+   * A l’inverse de la Canne de Combat, les coups croisés
+     (Latéral croisé, Croisé-tête, Croisé-bas) au Bâton, sont du
+     côté extérieur de la garde et les coups extérieurs (Latéral
+     extérieur, Brisé, Enlevé) au Bâton, sont du côté intérieur de
+     la garde. Malgré cette inversion de position, la dénomination
+     des coups en Canne de Combat et en Bâton reste la
+     même.
+
+   * Au Bâton, en dehors des coups, les côtés de la garde sont
+     désignés par les qualifications « intérieur » et « croisé ». On
+     parlera ainsi de parades intérieures ou croisées.
+
+
+**Rappel :** hormis la prise de l’arme, les paramètres techniques
+fondamentaux de la position de garde au Bâton
+sont identiques à ceux de la Canne de Combat garde :ref:`partie
+basse<Position_garde_appui>`, :ref:`médiane<Position_garde_median>` et :ref:`partie
+haute<Position_garde_haute>`.
+
+
+.. _Baton_garde_conventionnelle:
+
+Paramètres techniques de la garde conventionnelle
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+**Définition :** la position de la garde conventionnelle au
+Bâton s’apparente à la garde opposée
+en Canne de Combat ou à la garde à
+droite en Boxe (exemple : pour un droitier, la main droite directrice et le pied
+droit sont positionnés à l’arrière de la
+garde, la main gauche guide et le pied
+gauche sont positionnés à l’avant de la
+garde) ; pour un gaucher, inverser la
+description.
+
+
+Paramètres techniques de la garde conventionnelle inversée
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**Définition :** changement de côté de la garde conventionnelle
+(et non comme en Boxe où l’on définit la garde inversée par rapport
+à la garde de l’adversaire). Il s’agit pour un
+droitier de positionner le pied droit et la main droite en main
+de soutien à l’avant de la garde, le pied gauche et la main
+gauche en main directrice à l’arrière de la garde. Pour un
+gaucher, inverser la description.
+Les paramètres techniques de la garde conventionnelle
+inversée sont identiques à ceux de la :ref:`garde conventionnelle<Baton_garde_conventionnelle>`.
+
+
+.. _Arme_baton:
+
+L'armé
+~~~~~~~~~
+
+
+**Rappel :** concernant la main directrice (main arrière)
+(:ref:`Eléments de base<La_garde_baton>`), les paramètres techniques
+fondamentaux de l’armé au Bâton sont identiques à ceux de la :ref:`Canne
+de Combat<Arme_canne>`.
+
+.. _Paramètres_techniques_de_l’armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs_Baton:
+
+Paramètres techniques de l’armé particuliers aux coups horizontaux intérieurs et extérieurs : le Latéral croisé et le Latéral extérieur
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+  * La main directrice est armée derrière l’axe vertébral
+    comme à la :ref:`Canne de Combat<Paramètres_techniques_de_l_armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs>`.
+
+  * La main de soutien accompagne le mouvement d’armé
+    et se place au niveau de l’axe vertébral. Dans ces positions
+    d’armé fixe (:ref:`point n°2<Paramètres_techniques_de_l_armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs>`), pour le Latéral croisé, l’avant-bras de
+    la main de soutien est orienté selon un axe oblique : coude
+    dirigé vers l’arrière de la garde et vers le haut, au dessus de
+    l’horizontale du bâton, et pour le latéral extérieur, l’avant-
+    bras de la main de soutien est orienté selon un axe oblique
+    : coude dirigé vers l’avant de la garde et vers le bas, au
+    dessous de l’horizontale du bâton.
+
+   * Durant la phase d’armé et de développement de ces
+     deux coups, l’écartement des mains reste sensiblement
+     identique à celui du départ de la garde (une trentaine de
+     centimètres).
+
+.. _Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_extérieurs_moulinés_Baton:
+
+Paramètres techniques de l’armé particuliers aux coups verticaux extérieurs moulinés : le Brisé et l’ Enlevé
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   * La main directrice est armée au niveau de l’axe vertébral
+     et non derrière lui comme en Canne de Combat.
+
+   * La main de soutien accompagne le mouvement d’armé
+     et passe derrière l’axe vertébral. Dans ces deux mouvements
+     d’armé semi-fixe (:ref:`point n°1<Paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_extérieurs_moulinés>`), l’avant-bras de la main
+     de soutien est orienté à l’horizontale : coude dirigé vers
+     l’avant de la garde, au dessous de l’horizontale du bâton.
+
+   * Durant la phase d’armé de ces deux coups, les mains se
+     rapprochent puis s’écartent de nouveau à la fin du développement des coups.
+
+
+.. _Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_croisés_intérieurs_Baton:
+
+Paramètres techniques de l’armé particuliers aux coups verticaux croisés intérieurs : le Croisé-tête et le Croisé-bas
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+   * La main directrice est armée au niveau de l’axe vertébral
+     et non derrière lui comme en Canne de Combat.
+
+   * La main de soutien accompagne le mouvement d’armé
+     et passe derrière L’axe vertébral. Dans ces deux mouvements
+     d’armé non-fixe (:ref:`Point n°1<Paramètres_techniques_de_l_armé_particuliers_aux_coups_verticaux_croisés_intérieurs>`), l’avant-bras de la main de
+     soutien n’a pas de position précise car il décrit une ellipse
+     très large et discontinue. Le bras de la main de soutien
+     est presque en extension lors de sa rotation (angle formé
+     entre le bras et l’avant-bras de la main de soutien d’environ
+     150°).
+
+   * Durant la phase d’armé et de développement de ces
+     deux coups, l’écartement des mains reste sensiblement
+     identique à celui du départ de la garde (une trentaine de
+     centimètres).
+
+.. _La_fente_baton:
+
+La fente
+~~~~~~~~~
+
+
+**Rappel :** hormis la prise de l’arme, les paramètres techniques
+fondamentaux des positions de fente au Bâton sont
+identiques à ceux de la :ref:`Canne de Combat<La_fente>`.
+
+Remarque :
+
+   * Le poids du bâton et l’engagement des deux mains vers
+     l’avant, au moment de la frappe, augmentent le bras de
+     levier que représente le buste, ce qui réclame une position
+     du haut du corps plus verticale qu’en Canne de Combat
+     afin d’éviter des tensions lombaires excessives.
+
+   * La garde au Bâton, correspondant à la garde opposée
+     en Canne de Combat, oblige le tireur, pour l’exécution
+     des coups croisés, à décrire une rotation importante du
+     buste lors des armés croisés (vers la gauche pour un droitier).
+     Cela réclame une position ouverte de la fente (appuis
+     placés sur deux lignes parallèles écartées, dans l’axe de
+     combat) afin de favoriser l’orientation du bassin du côté
+     croisé (vers la gauche pour un droitier) (:ref:`Point n°6<fente_comuns>`)
+
+
+
+
+.. _Les_deplacements_baton:
+
+Les déplacements
+~~~~~~~~~~~~~~~~~~
+**Rappel :** hormis la prise de l’arme, les paramètres techniques
+fondamentaux des déplacements au Bâton sont iden-
+tiques à ceux de la :ref:`Canne de Combat<Les_déplacements>`.
+
+**Remarque :** au Bâton, l’utilisation des deux mains ne permet
+pas d’avoir une main libre comme en Canne de Combat
+où elle joue un rôle de balancier qui favorise l’amorce des
+coups et l’équilibre des déplacements (:ref:`Point n°8:<Position_garde_haute>`).
+
+Cette différence doit être compensée par une stabilité
+accrue des :ref:`appuis<Position_garde_appui>` et l’apport d’une plus grande
+contribution des synergies musculaires (:ref:`Point n°3<Paramètres_techniques_de_l_armé_communs_à_tous_les_coups>`) aux coups
+et aux déplacements.
+
+
+
+.. _Les_mouvements_baton:
+
+Les paramètres techniques des mouvements défensifs : les parades et les esquives
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Rappel :** hormis la prise de l’arme, les paramètres techniques
+fondamentaux des parades et des esquives au Bâton
+sont identiques à ceux de la :ref:`Canne de Combat<Les_parades_et_les_esquives>`.
+
+Les parades
+++++++++++++
+
+**Remarque :** la dénomination des parades, au Bâton, tient
+compte des différences de position entre la Canne de
+combat et le Bâton. Au Bâton, en dehors des coups, les
+côtés de la garde sont désignés par les qualifications
+« intérieur » et « croisé ».
+
+On parlera ainsi de parades intérieures ou croisées.
+Au cours des parades, la position des mains ne
+doit pas masquer de surfaces de frappe et doit conserver
+un écartement suffisant (plus important qu’en position de
+garde) pour favoriser la tenue de l’arme sous l’impact des
+frappes adverses et pour rendre plus réactives l’amorce
+des ripostes, exemples :
+
+   * Parades verticales intérieures (à droite pour un droitier) et
+     parades verticales croisées (à gauche pour un droitier) :
+
+     * Parade basse et médiane à la fois (jambe et flanc), bâton
+       pointe en bas : main directrice (main arrière) à la hauteur
+       de l’épaule ou du cou, main de soutien (main avant) à la
+       hauteur de la ceinture.
+
+     * Parade haute et médiane à la fois (tête et flanc), bâton
+       pointe en bas : main directrice (main arrière) à la hauteur du
+       dessus de la tête, main de soutien (main avant) à la hauteur
+       de l’épaule ou du cou.
+
+     * Parade haute et médiane à la fois (tête et
+       flanc), bâton pointe
+       en haut : main directrice (main arrière) à la hauteur de la ceinture,
+       main de soutien
+       (main avant) à la hauteur de l’épaule ou du cou.
+
+   * Parades horizontales :
+
+      * Parade centrale, bâton à l’horizontale au dessus de
+        la tête, perpendiculaire à l’axe de combat :
+        mains très écartées de chaque côté
+        de la tête.
+
+      * Parade en toit intérieu§B.6re, bâton au
+        dessus de la tête, perpendiculaire à
+        l’axe de combat, légèrement incliné
+        pointe vers le bas : mains rapprochées,
+        décalées du côté intérieur de la garde (à droite pour
+        un droitier). Cette parade peut être accompagnée par un
+        déplacement latéral vers le côté
+        intérieur.
+
+      * Parade en toit croisée, bâton au dessus de la tête,
+        perpendiculaire à l’axe de combat, légèrement incliné pointe
+        vers le bas : mains rapprochées, décalées du côté croisé
+        de la garde (à gauche pour un droitier).
+        Cette parade peut être accompagnée
+        par un déplacement latéral vers le côté croisé.
+
+
+Les esquives
++++++++++++++
+
+**Remarque :** pour les mêmes :ref:`raisons<Les_deplacements_baton>`
+d’équilibre des déplacements, et pour des raisons de lenteur
+des coups par rapport à ceux de la Canne de Combat, les
+esquives nécessitent davantage d’amplitude afin de donner
+du temps pour l’exécution de la riposte.
+
+
+
 .. _Les_coups_baton:
 
-Les coups
-~~~~~~~~~
+Description technique des coups du Bâton
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+**Rappel**: hormis la prise de l’arme, les paramètres techniques
+fondamentaux des coups au Bâton sont identiques à
+ceux de la :ref:`Canne de Combat<Les_coups_canne>`.
+
+La main de soutien (:ref:`Eléments de base<La_garde_baton>`) coulisse et
+s’oriente suivant les trajectoires des coups. Pour des raisons
+de position qui favorise l’enchaînement des coups et
+le contrôle de leurs trajectoires, la main de soutien et la
+main directrice sont positionnées, au moment de la frappe,
+en pronation ou légèrement tournées vers l’extérieur de la
+garde (pour un droitier, paumes vers la gauche).
+
+Au moment de la frappe et pour tous les coups, le bras de
+la main de soutien (main avant) est en extension (sans verrouillage
+de l’articulation) et l’arme est à peu près horizontale,
+ce qui nécessite une légère ouverture de la main de
+soutien du côté auriculaire.
+
+Au moment de la frappe, pour tous les coups, l’écartement
+entre les mains et la flexion du bras de la main directrice
+(main arrière), varient suivant la distance de la cible (plus la
+cible est éloignée, plus les mains sont rapprochées et plus
+le bras de la main directrice est en extension).
+
+La forme essentiellement démonstrative de la discipline du
+Bâton ne le dispense pas du respect des critères
+de :ref:`validité des touches<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`.
+Hormis les coups piqués et le coups coulissés ou glissés
+autorisés dans :ref:`certaines conditions<trajectoires_coups_baton>`,
+les innovations techniques (jongleries et passages acrobatiques générant des
+mouvements non codifiés) ne sont autorisées que dans des
+phases transitoires précédant l’exécution réglementaire des
+coups. Exemple : le Croisé-bas, précédé de la feinte de
+l’Enlevé (mouvement du salut en Canne de Combat), ne
+sera valide que s’il est armé, accompagné d’une fente, etc.
+Par contre, si cet enchaînement n’a pas la finalité de la
+touche, mais reste une manipulation transitoire, le respect
+des critères de validité de la touche, notamment l’armé, ne
+lui incombe pas.
+
+
 
 Description technique du Salut
 +++++++++++++++++++++++++++++++
+
+Le mouvement du salut au Bâton est le mouvement du
+:ref:`Croisé-tête<Description_technique_du_Croisé_tête_baton>`.
+Partir d’une position des jambes en
+extension et du buste redressé (position de garde-à-vous,
+talons joints). Faisant face à l’adversaire ou à l’audience
+que le tireur va saluer, il tient son bâton en position
+de parade croisée basse pointe en bas contre le pied
+(pour un droitier, il s’agit de la parade basse sur son
+côté gauche). Dans cette position, au commandement :
+« Prêt pour le salut !? », le tireur ne bouge pas. Il
+tient la posture avec prestance. Au commandement :
+« Saluez ! », le tireur exécute un Croisé-tête. Le tireur ne
+tournant pas le buste, le coup est armé devant l’axe vertébral.
+Le tireur arrête le mouvement du salut lorsque le
+bâton a juste franchi la verticale (pointe en haut, légèrement
+obliquée vers l’avant). Il maintient sa position une à
+deux secondes pour marquer le salut.
+
 
 .. _Description_technique_du_Latéral_extérieur_baton:
 
 Description technique du Latéral extérieur
 ++++++++++++++++++++++++++++++++++++++++++
 
+   * Trajectoire : horizontale
+   * Mouvement elliptique du bâton :
+
+      * la main directrice : les paramètres de rotation et circumduction
+        du poignet, de la main et de l’arme sont identiques à ceux du
+        Latéral extérieur en :ref:`Canne de combat<Description_technique_du_Latéral_extérieur>`.
+        Cependant, pour des raisons de coordination entre
+        les deux mains, après sa position d’armé derrière l’axe vertébral,
+        la main directrice accomplit l’essentiel de sa rotation
+        lorsqu’elle est revenue devant l’axe vertébral, ainsi plus
+        de la moitié de la circumduction du bâton est développée
+        devant l’axe vertébral (:ref:`main
+        directrice<La_garde_baton>`), alors qu’en :ref:`Canne de
+        combat<Les_coups_Observations>` la rotation de la main et de la canne est réalisée
+        derrière l’axe vertébral.
+
+      * la main de soutien : pour des raisons de coordination
+        entre les deux mains, après sa position d’armé derrière
+        l’axe vertébral, la main de soutien accomplit sa rotation derrière
+        l’axe vertébral, alors que la circumduction du bâton
+        est développée devant l’axe vertébral (:ref:`main
+        guide<La_garde_baton>`). La main de soutien accompagne la
+        circumduction du bâton après la phase d’armé en se rapprochant
+        de la main directrice puis en s’écartant de nouveau
+        au moment de la frappe de façon à réduire le rayon de
+        rotation du bras de la main de soutien pour obtenir un mouvement
+        mieux synchronisé et plus rapide (:ref:`Rappel<Les_coups_baton>`). La
+        contribution synergique de la main de soutien dans l’exécution
+        du Latéral extérieur n’est pas aussi importante qu’elle
+        devrait être (plus de 50 %) parce que la préhension de
+        la main de soutien est lâche pour permettre la rotation du
+        bâton sur lui-même lors de l’exécution des coups extérieurs
+        (Latéral extérieur, Brisé, Enlevé);
+
+   * Armé voir les :ref:`paramètres techniques de l’armé particuliers aux coups horizontaux intérieurs et extérieurs<Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_extérieurs_moulinés_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Fente : lorsque le Latéral est exécuté en :ref:`jambe<La_fente_baton>`
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) les faces latérales de la tête ; le grillage
+     de la face antérieure lorsque la canne le touche dans un
+     axe perpendiculaire, l’attaquant se trouvant sur le côté du
+     défenseur ; le flanc pour les masculins ; la jambe.
+
+
+
 .. _Description_technique_du_Latéral_croisé_baton:
 
 Description technique du Latéral croisé
 ++++++++++++++++++++++++++++++++++++++++
+
+   * Trajectoire : horizontale
+   * Mouvement elliptique du bâton : mêmes éléments fondamentaux
+     que ceux du :ref:`Latéral extérieur<Description_technique_du_Latéral_extérieur_baton>`, hormis
+     la main directrice dont les paramètres de rotation et circumduction
+     du poignet, de la main et de l’arme sont identiques à ceux du Latéral
+     croisé en :ref:`Canne de Combat<Description_technique_du_Latéral_croisé>`.
+     En outre, la contribution synergique de la main de soutien
+     dans l’exécution du Latéral croisé est plus importante que
+     celle de la main directrice car le bâton ne tourne pas dans
+     la main guide lors de l’exécution des coups croisés (Latéral
+     croisé, Croisé-tête, Croisé-bas) et renforce ainsi la préhension
+     et la poussée de la main de soutien sur l’arme.
+   * Armé voir les :ref:`paramètres techniques de l’armé particuliers aux coups horizontaux intérieurs et extérieurs<Paramètres_techniques_de_l’armé_particuliers_aux_coups_horizontaux_intérieurs_et_extérieurs_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Fente : lorsque le Latéral croisé est exécuté en :ref:`jambe<La_fente_baton>`
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) les faces latérales de la tête ; le grillage
+     de la face antérieure lorsque la canne le touche dans un
+     axe perpendiculaire, l’attaquant se trouvant sur le côté du
+     défenseur ; le flanc pour les masculins ; la jambe.
+
 
 .. _Description_technique_du_Brisé_baton:
 
 Description technique du Brisé
 +++++++++++++++++++++++++++++++
 
+   * Trajectoire : verticale
+   * Mouvement elliptique du bâton : mêmes éléments fondamentaux que ceux du
+     :ref:`Latéral extérieur<Description_technique_du_Latéral_extérieur_baton>`, hormis
+     la main directrice dont les paramètres de rotation et circumduction du
+     poignet, de la main et de l’arme sont identiques à ceux du
+     :ref:`Brisé en Canne de Combat<Description_technique_du_Brisé>`.
+   * Armé voir les :ref:`paramètres techniques de l’armé particuliers aux coups verticaux extérieurs moulinés<Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_extérieurs_moulinés_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) le dessus de la tête
+
+
 .. _Description_technique_de_l_Enlevé_baton:
 
 Description technique de l’Enlevé
 ++++++++++++++++++++++++++++++++++
+
+   * Trajectoire : verticale
+   * Terminaison du coup : horizontale. en pratique, elle est
+     obliquée vers la cible.
+   * Mouvement elliptique du bâton : mêmes éléments fondamentaux que ceux du
+     :ref:`Latéral extérieur<Description_technique_du_Latéral_extérieur_baton>`, hormis
+     la main directrice dont les paramètres de rotation et circumduction du
+     poignet, de la main et de l’arme sont identiques à ceux de
+     l’:ref:`Enlevé en Canne de Combat<Description_technique_de_l_Enlevé>`.
+   * Armé voir les :ref:`paramètres techniques de l’armé particuliers aux coups verticaux extérieurs moulinés<Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_extérieurs_moulinés_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Fente :  En raison de la trajectoire de l’enlevé
+     et de la longueur importante du bâton par rapport à celle de
+     la canne, la :ref:`fente<La_fente_baton>` ne peut être exécutée que tardivement,
+     au moment de la frappe.
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) la jambe
+
 
 .. _Description_technique_du_Croisé_tête_baton:
 
 Description technique du Croisé-tête
 +++++++++++++++++++++++++++++++++++++
 
+   * Trajectoire : verticale
+   * Mouvement elliptique du bâton :
+      * la main directrice : les paramètres de rotation et circumduction
+        du poignet, de la main et de l’arme sont identiques à ceux
+        du :ref:`Croisé-tête en Canne de combat<Description_technique_du_Croisé_tête>`.
+        Cependant, pour des raisons de coordination entre les deux
+        mains, après sa position d’armé derrière l’axe vertébral,
+        la main directrice accomplit l’essentiel de sa rotation lorsqu’elle
+        est revenue devant l’axe vertébral, ainsi plus de la
+        moitié de la circumduction du bâton est développée devant
+        l’axe vertébral (:ref:`main
+        directrice<La_garde_baton>`), alors qu’en :ref:`Canne de combat<Les_coups_Observations>`
+        la rotation de la main et de la canne est réalisée derrière
+        l’axe vertébral. On peut ajouter à cette différence que le
+        bras de la main directrice reste à moitié fléchi lors du développement
+        du Croisé-tête et du Croisé-bas au Bâton, tandis
+        que le bras muni de l’arme en Canne de Combat, pour ses
+        deux mêmes coups est en extension (quelques degrés de
+        flexion étant communément acceptés).
+
+      * la main de soutien : pour des raisons de coordination
+        entre les deux mains, après sa position d’armé derrière
+        l’axe vertébral, la main de soutien accomplit sa rotation derrière
+        l’axe vertébral, alors que la circumduction du bâton
+        est développée devant l’axe vertébral (:ref:`main
+        soutien<La_garde_baton>`). La main de soutien ne se rapproche
+        pas de la main directrice lors du développement du
+        Croisé-tête et du Croisé-bas car, en même temps que la circumduction
+        du bâton, le coude de la main de soutien monte
+        assez haut afin de présenter le bâton presque à l’horizontale,
+        aidé en cela par la position écartée des mains (position de départ,
+        environ 30 cm) (:ref:`Rappel<Les_coups_baton>`). En outre, la
+        contribution synergique de la main de soutien dans l’exécution du
+        Croisé-tête est plus importante que celle de la main
+        directrice car le bâton ne tourne pas dans la main de soutien
+        lors de l’exécution des coups croisés (Latéral croisé,
+        Croisé-tête, Croisé-bas) et renforce ainsi la préhension et
+        la poussée de la main de soutien sur l’arme.
+   * Armé : voir les :ref:`paramètres techniques de l’armé particuliers aux coups verticaux croisés intérieurs<Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_croisés_intérieurs_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) le dessus de la tête.
+
+
 .. _Description_technique_du_Croisé_bas_baton:
 
 Description technique du Croisé-bas
 ++++++++++++++++++++++++++++++++++++
+
+   * Trajectoire : verticale
+   * Mouvement elliptique du bâton : mêmes éléments fondamentaux
+     que ceux du :ref:`Croisé-tête au Bâton<Description_technique_du_Croisé_tête_baton>`, hormis
+     la main directrice dont les paramètres de rotation et circumduction du
+     poignet, de la main et de l’arme sont identiques à ceux de
+     :ref:`Croisé-bas en Canne de Combat<Description_technique_du_Croisé_bas>`.
+   * Armé : voir les :ref:`paramètres techniques de l’armé particuliers aux coups verticaux croisés intérieurs<Paramètres_techniques_de_l’armé_particuliers_aux_coups_verticaux_croisés_intérieurs_Baton>`
+   * Retour vers la cible (:ref:`Rappel<Les_coups_baton>`)
+   * Fente : En raison de la trajectoire du Croisé-bas et de la longueur importante du bâton par rapport à
+     celle de la canne, la :ref:`fente<La_fente_baton>` ne peut être exécutée que tardivement, au moment de la frappe.
+   * Cibles : (:ref:`Rappel<Rappel_des_règles_techniques_de_la_validité_d_une_touche>`) la jambe.
