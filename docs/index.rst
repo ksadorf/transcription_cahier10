@@ -7,5 +7,9 @@ Cahier n° 10
    :maxdepth: 2
    :caption: Sommaire
 
-   Presentation
-   Methodologie
+   Introduction
+   Methodologie_canne
+   Methodologie_baton
+   Progression
+   Arbitrage
+   Competition
