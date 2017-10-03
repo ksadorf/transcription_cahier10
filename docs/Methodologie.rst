@@ -139,7 +139,7 @@ Bâton ou en Boxe : main gauche et pied gauche devant).
 
 .. figure:: ./illustrations/-004.jpg
   :align: center
-  
+
   La garde conventionnelle pour un droitier
 
 .. _Position_garde_appui:
@@ -339,7 +339,7 @@ mise en oeuvre de l’ensemble des techniques
 
 .. figure:: ./illustrations/-005.jpg
   :align: center
-  
+
   La garde opposée pour un droitier
 
 .. _Paramètres_techniques_de_la_garde_opposée_Important:
@@ -850,6 +850,16 @@ Description technique du Salut
 +++++++++++++++++++++++++++++++
 
 Le mouvement du salut est le mouvement de l’:ref:`Enlevé<Description_technique_de_l_Enlevé>` suivi du :ref:`Croisé-bas<Description_technique_du_Croisé_bas>`.Partir d’une position des jambes en extension et du buste redressé (position de garde-à-vous, talons joints). Faisant face à l’adversaire ou à l’audience que le tireur va saluer, il tient sa canne en position de parade extérieure basse pointe en bas contre le pied (pour un droitier, il s’agit de la parade basse sur son côté droit). Les bras sont en extension vers le bas. Le bras muni de l’arme s’écarte sur le côté, d’une vingtaine de centimètres de la hanche et l’autre bras descend le long du corps. Dans cette position, au commandement : « Prêt pour le salut !? », le tireur tend sa canne devant lui, presque à l’horizontale (légèrement inclinée vers le bas). L’autre bras ne bouge pas. Le tireur tient la posture avec prestance. Au commandement : « Saluez ! », le tireur exécute l’Enlevé suivi du Croisé-bas. Le tireur n’accompagnant pas son geste d’une rotation du buste, les deux coups sont armés devant l’axe vertébral. Le tireur arrête le mouvement du salut dans la position où il l’avait commencé (canne à l’horizontale). Il maintient sa position une à deux secondes pour marquer le salut.
+
+.. figure:: ./video/salut_face.gif
+  :align: center
+
+  Salut de face
+
+.. figure:: ./video/salut_cote.gif
+    :align: center
+
+    Salut de cote
 
 .. _Description_technique_du_Latéral_extérieur:
 
